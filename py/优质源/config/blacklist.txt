@@ -1099,3 +1099,7 @@ live.spccmc.com
 www.clmy.cc
 153.0.171.163
 m3u8.channel.wsrtv.com.cn
+113.26.202.52
+zhfivel02.cztv.com
+livestream-bt.nmtv.cn
+live.yantaitv.cn
