@@ -1103,3 +1103,9 @@ m3u8.channel.wsrtv.com.cn
 zhfivel02.cztv.com
 livestream-bt.nmtv.cn
 live.yantaitv.cn
+play-radio-stream3.hndt.com
+play1-qk.nmtv.cn
+live.junhao.mil.cn
+43.138.196.212
+cdn9.163189.xyz
+event.pull.hebtv.com
