@@ -1114,3 +1114,6 @@ cm-wshls.homecdn.com
 m3u8-channel.lytv.tv
 luzhi.xuyongrongmei.com
 kdfile.ganzitv.com
+lmt.scqstv.com
+live.xysrmt.cn
+luobo.bkpcp.top
