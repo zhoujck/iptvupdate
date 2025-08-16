@@ -1127,3 +1127,5 @@ tvpull.hmgbtv.com
 nmxlive.akamaized.net
 jwplay.hebyun.com.cn
 101.66.199.251
+sdqz.chinashadt.com
+omnix.cn
