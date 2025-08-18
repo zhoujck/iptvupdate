@@ -1153,3 +1153,6 @@ stream.jmtv.com.cn
 0472.org
 ldncctvwbcdcnc.v.wscdns.com
 ldcctvwbcdks.v.kcdnvip.com
+traffic.jbh.tjbh.com
+live1.gatv.com.cn
+hzcm-live.media.hugd.com
