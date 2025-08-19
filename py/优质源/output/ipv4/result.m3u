@@ -2,13 +2,15 @@
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://goo.bkpcp.top/mg/CCTV2
 #EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://z.b.bkpcp.top/m.php?id=CCTV-4å½é
-#EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://goo.bkpcp.top/mg/cctv4o
 #EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://goo.bkpcp.top/mg/cctv4m
+#EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+http://z.b.bkpcp.top/m.php?id=CCTV-4å½é
 #EXTINF:-1 tvg-name="CCTV7"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
+http://223.109.75.19:8000/649185/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://goo.bkpcp.top/mg/CCTV7
 #EXTINF:-1 tvg-name="CCTV8"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV8
@@ -29,18 +31,26 @@ http://z.b.bkpcp.top/m.php?id=CCTV-12ç¤¾ä¼ä¸æ³ç¤¾ä¼ä¸�
 http://j.x.bkpcp.top/jx/CCTV13HD
 #EXTINF:-1 tvg-name="CCTV13"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://z.b.bkpcp.top/m.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 #EXTINF:-1 tvg-name="CCTV16"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV16
 http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
+#EXTINF:-1 tvg-name="CCTV17"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
+http://223.109.75.19:8000/299438/index.m3u8
 #EXTINF:-1 tvg-name="中国天气"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="央视频道",中国天气
 http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CETV1"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="央视频道",CETV1
 http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CETV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道",CETV4
 http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0f82eebcc09942e21510349fd02669a4&wsTime=1755579610
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b3dfb9b2675471c939ab2ec0ba7e3c5f&wsTime=1755536421
 #EXTINF:-1 tvg-name="华数4K"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数4K.png" group-title="数字频道",华数4K
 http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="精彩影视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/精彩影视.png" group-title="数字频道",精彩影视
@@ -109,18 +119,26 @@ http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
 http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
 #EXTINF:-1 tvg-name="万合出品"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/万合出品.png" group-title="☘️轮播台",万合出品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-#EXTINF:-1 tvg-name="邵氏影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/邵氏影院.png" group-title="☘️轮播台",邵氏影院
-http://zzy789.xyz/douyu1.php?id=4246519
 #EXTINF:-1 tvg-name="特辑电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="☘️轮播台",特辑电影
 http://zzy789.xyz/douyu1.php?id=3637778
 #EXTINF:-1 tvg-name="特辑电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="☘️轮播台",特辑电影
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 tvg-name="粤语电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="☘️轮播台",粤语电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+#EXTINF:-1 tvg-name="粤语电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="☘️轮播台",粤语电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 #EXTINF:-1 tvg-name="冰冰影厅"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/冰冰影厅.png" group-title="☘️轮播台",冰冰影厅
 http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 #EXTINF:-1 tvg-name="刀刀影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/刀刀影院.png" group-title="☘️轮播台",刀刀影院
 http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
 #EXTINF:-1 tvg-name="贝爷贰厅"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="☘️轮播台",贝爷贰厅
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+#EXTINF:-1 tvg-name="凌儿影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="☘️轮播台",凌儿影院
+http://zzy789.xyz/douyu1.php?id=1377142
+#EXTINF:-1 tvg-name="凌儿影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="☘️轮播台",凌儿影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142
+#EXTINF:-1 tvg-name="热门港剧"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/热门港剧.png" group-title="☘️轮播台",热门港剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 #EXTINF:-1 tvg-name="金庸武侠"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金庸武侠.png" group-title="☘️轮播台",金庸武侠
 http://zzy789.xyz/douyu1.php?id=9285904
 #EXTINF:-1 tvg-name="上海都市"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="☘️上海市",上海都市
@@ -146,7 +164,7 @@ http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="☘️上海市",哈哈炫动
 http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="☘️河南省",梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=877da56377732fa2c157dfc516cec793&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=0e2b4f05b5e53d71916d6f65c3c70bf3&wsTime=1755579610
 #EXTINF:-1 tvg-name="金鹰纪实"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南省",金鹰纪实
 http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️江苏省",苏州文化生活
@@ -240,17 +258,17 @@ http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CGTN-纪录" group-title="其他",CGTN-纪录
 http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CHCå¨ä½çµå½±" group-title="其他",CHCå¨ä½çµå½±
-http://z.b.bkpcp.top/m.php?id=dzdy
+http://goo.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHCå¨ä½çµå½±" group-title="其他",CHCå¨ä½çµå½±
 http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHCå¨ä½çµå½±" group-title="其他",CHCå¨ä½çµå½±
-http://goo.bkpcp.top/mg/dzdy
+http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHCå®¶åº­å½±é¢" group-title="其他",CHCå®¶åº­å½±é¢
 http://gat.bkpcp.top/ymg.php?id=jtyy
 #EXTINF:-1 tvg-name="CHCå®¶åº­å½±é¢" group-title="其他",CHCå®¶åº­å½±é¢
-http://z.b.bkpcp.top/m.php?id=jtyy
-#EXTINF:-1 tvg-name="CHCå®¶åº­å½±é¢" group-title="其他",CHCå®¶åº­å½±é¢
 http://goo.bkpcp.top/mg/jtyy
+#EXTINF:-1 tvg-name="CHCå®¶åº­å½±é¢" group-title="其他",CHCå®¶åº­å½±é¢
+http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CNå¡é" group-title="其他",CNå¡é
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CNå¡é" group-title="其他",CNå¡é
@@ -258,9 +276,9 @@ https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="Fashion TV" group-title="其他",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="JJæå°ä¸»" group-title="其他",JJæå°ä¸»
-http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-#EXTINF:-1 tvg-name="JJæå°ä¸»" group-title="其他",JJæå°ä¸»
 http://zzy789.xyz/douyu1.php?id=488743
+#EXTINF:-1 tvg-name="JJæå°ä¸»" group-title="其他",JJæå°ä¸»
+http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="其他",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="MBC" group-title="其他",MBC
@@ -298,13 +316,13 @@ http://live.iill.top/yy.php?id=1354936241
 #EXTINF:-1 tvg-name="ä¸å½æ¼ä¹" group-title="其他",ä¸å½æ¼ä¹
 https://live.iill.top/huya/11602081
 #EXTINF:-1 tvg-name="ä¸ææ°é»ç»¼å" group-title="其他",ä¸ææ°é»ç»¼å
-http://ls.qingting.fm/live/4885.m3u8
-#EXTINF:-1 tvg-name="ä¸ææ°é»ç»¼å" group-title="其他",ä¸ææ°é»ç»¼å
 https://ls.qingting.fm/live/5022100/64k.m3u8
-#EXTINF:-1 tvg-name="ä¸æ²å«è§" group-title="其他",ä¸æ²å«è§
-http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+#EXTINF:-1 tvg-name="ä¸ææ°é»ç»¼å" group-title="其他",ä¸ææ°é»ç»¼å
+http://ls.qingting.fm/live/4885.m3u8
 #EXTINF:-1 tvg-name="ä¸æ²å«è§" group-title="其他",ä¸æ²å«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1 tvg-name="ä¸æ²å«è§" group-title="其他",ä¸æ²å«è§
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
 #EXTINF:-1 tvg-name="ä¸ç«å°æ¹¾" group-title="其他",ä¸ç«å°æ¹¾
 https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="ä¸ç«æ°é»" group-title="其他",ä¸ç«æ°é»
@@ -316,47 +334,47 @@ https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="ä¸ç«æ°é»" group-title="其他",ä¸ç«æ°é»
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="ä¸æµ·å¤è¯­" group-title="其他",ä¸æµ·å¤è¯­
-https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1746307365&key=5923d8473fb7e7c254f421fd5c26ed51
-#EXTINF:-1 tvg-name="ä¸æµ·å¤è¯­" group-title="其他",ä¸æµ·å¤è¯­
 http://z.b.bkpcp.top/m.php?id=shics
+#EXTINF:-1 tvg-name="ä¸æµ·å¤è¯­" group-title="其他",ä¸æµ·å¤è¯­
+https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1746307365&key=5923d8473fb7e7c254f421fd5c26ed51
 #EXTINF:-1 tvg-name="ä¸æµ·æ°é»ç»¼å" group-title="其他",ä¸æµ·æ°é»ç»¼å
 http://z.b.bkpcp.top/m.php?id=shxwzh
 #EXTINF:-1 tvg-name="ä¸æµ·æ»©" group-title="其他",ä¸æµ·æ»©
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="ä¸æµ·é½å¸" group-title="其他",ä¸æµ·é½å¸
-https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
-#EXTINF:-1 tvg-name="ä¸æµ·é½å¸" group-title="其他",ä¸æµ·é½å¸
 https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&key=3725d08baa89daf1e05599a00bdac978
+#EXTINF:-1 tvg-name="ä¸æµ·é½å¸" group-title="其他",ä¸æµ·é½å¸
+https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
 #EXTINF:-1 tvg-name="ä¸åå«è§" group-title="其他",ä¸åå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
 #EXTINF:-1 tvg-name="ä¸åå«è§" group-title="其他",ä¸åå«è§
 http://z.b.bkpcp.top/m.php?id=dnws
 #EXTINF:-1 tvg-name="ä¸åå«è§" group-title="其他",ä¸åå«è§
-http://j.x.bkpcp.top/jx/DONGNHD
-#EXTINF:-1 tvg-name="ä¸åå«è§" group-title="其他",ä¸åå«è§
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="ä¸åå«è§" group-title="其他",ä¸åå«è§
+http://j.x.bkpcp.top/jx/DONGNHD
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 http://goo.bkpcp.top/mg/dfws
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
-http://z.b.bkpcp.top/m.php?id=dfws
-#EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746334807-ddb61092a75249868c8bd1834313f437-0-8a760296d281d86bc4612f5fc4f85247
-#EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
-https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1746379256&key=19bcfc963d4ae84eb8beb4f01087a8ab
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1746372302&key=04c79ed1fd72dbd3188040c54dc3858b
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1746379256&key=19bcfc963d4ae84eb8beb4f01087a8ab
+#EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1746393735&key=ebd80a46e19064eb1a305a39fe3d15d2
+#EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
+http://z.b.bkpcp.top/m.php?id=dfws
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" group-title="其他",ä¸æ¹å«è§
 rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil
 #EXTINF:-1 tvg-name="ä¸æ¹å½±è§" group-title="其他",ä¸æ¹å½±è§
 http://gat.bkpcp.top/ymg.php?id=shys
 #EXTINF:-1 tvg-name="ä¸æ¹å½±è§" group-title="其他",ä¸æ¹å½±è§
-http://z.b.bkpcp.top/m.php?id=shys
-#EXTINF:-1 tvg-name="ä¸æ¹å½±è§" group-title="其他",ä¸æ¹å½±è§
 http://z.b.bkpcp.top/m.php?id=dfys
+#EXTINF:-1 tvg-name="ä¸æ¹å½±è§" group-title="其他",ä¸æ¹å½±è§
+http://z.b.bkpcp.top/m.php?id=shys
 #EXTINF:-1 tvg-name="ä¸æ£®æ´ç" group-title="其他",ä¸æ£®æ´ç
 https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="ä¸æ£®çµå½±" group-title="其他",ä¸æ£®çµå½±
@@ -382,15 +400,15 @@ http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd
 #EXTINF:-1 tvg-name="ä¹æ±çºªå½" group-title="其他",ä¹æ±çºªå½
 http://goo.bkpcp.top/mg/zjjl
 #EXTINF:-1 tvg-name="ä¹å°ç»¼å" group-title="其他",ä¹å°ç»¼å
-http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="ä¹å°ç»¼å" group-title="其他",ä¹å°ç»¼å
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+#EXTINF:-1 tvg-name="ä¹å°ç»¼å" group-title="其他",ä¹å°ç»¼å
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="äºåå«è§" group-title="其他",äºåå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 #EXTINF:-1 tvg-name="äºåå«è§" group-title="其他",äºåå«è§
-http://goo.bkpcp.top/mg/ynws
-#EXTINF:-1 tvg-name="äºåå«è§" group-title="其他",äºåå«è§
 http://z.b.bkpcp.top/m.php?id=ynws
+#EXTINF:-1 tvg-name="äºåå«è§" group-title="其他",äºåå«è§
+http://goo.bkpcp.top/mg/ynws
 #EXTINF:-1 tvg-name="äºç ç»¼å" group-title="其他",äºç ç»¼å
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="äº³å·åæ" group-title="其他",äº³å·åæ
@@ -410,13 +428,13 @@ http://z.b.bkpcp.top/m.php?id=ymkt
 #EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
-https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1745796321&key=a52fbb40a8c25dfa0feef5a1b4b5910d
-#EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
-https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1746307365&key=c18c5077358ab692ad43005bbc7b32bd
-#EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
 https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1746307365&key=c18c5077358ab692ad43005bbc7b32bd
 #EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
 https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1745796321&key=a52fbb40a8c25dfa0feef5a1b4b5910d
+#EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
+https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1745796321&key=a52fbb40a8c25dfa0feef5a1b4b5910d
+#EXTINF:-1 tvg-name="ä¼æ¼«å¡é" group-title="其他",ä¼æ¼«å¡é
+https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1746307365&key=c18c5077358ab692ad43005bbc7b32bd
 #EXTINF:-1 tvg-name="ä½å±±ç»¼å" group-title="其他",ä½å±±ç»¼å
 https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1746307365&key=776c844ec448f3aca62132b212878ee5
 #EXTINF:-1 tvg-name="ä½å±±ç»¼å" group-title="其他",ä½å±±ç»¼å
@@ -476,19 +494,19 @@ https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="å¤å°ä¸­æ" group-title="其他",å¤å°ä¸­æ
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°ä¸­æ" group-title="其他",å¤å°ä¸­æ
-http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="å¤å°ä¸­æ" group-title="其他",å¤å°ä¸­æ
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="å¤å°ä¸­æ" group-title="其他",å¤å°ä¸­æ
+http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°å«è§" group-title="其他",å¤å°å«è§
 http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°èµè®¯" group-title="其他",å¤å°èµè®¯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="å¤å°èµè®¯" group-title="其他",å¤å°èµè®¯
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°èµè®¯" group-title="其他",å¤å°èµè®¯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°èµè®¯" group-title="其他",å¤å°èµè®¯
-https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="å¤å°é¦æ¸¯" group-title="其他",å¤å°é¦æ¸¯
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="å¤å°é¦æ¸¯" group-title="其他",å¤å°é¦æ¸¯
@@ -498,9 +516,9 @@ https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-name="åéç»¼å" group-title="其他",åéç»¼å
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 #EXTINF:-1 tvg-name="å²çä½è²" group-title="其他",å²çä½è²
-http://goo.bkpcp.top/mg/jbty
-#EXTINF:-1 tvg-name="å²çä½è²" group-title="其他",å²çä½è²
 http://z.b.bkpcp.top/m.php?id=jbty
+#EXTINF:-1 tvg-name="å²çä½è²" group-title="其他",å²çä½è²
+http://goo.bkpcp.top/mg/jbty
 #EXTINF:-1 tvg-name="åäº¬å«è§" group-title="其他",åäº¬å«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
 #EXTINF:-1 tvg-name="åäº¬å«è§" group-title="其他",åäº¬å«è§
@@ -562,23 +580,23 @@ http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 #EXTINF:-1 tvg-name="å¶å¿" group-title="其他",å¶å¿
 http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 #EXTINF:-1 tvg-name="åæä¹¡æ" group-title="其他",åæä¹¡æ
-https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1745796321&key=b26baf2d67026a93e41fcbbd3f132bc3
-#EXTINF:-1 tvg-name="åæä¹¡æ" group-title="其他",åæä¹¡æ
 https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746307365&key=c561c31cdce71c6e8e33914bfc43027f
+#EXTINF:-1 tvg-name="åæä¹¡æ" group-title="其他",åæä¹¡æ
+https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1745796321&key=b26baf2d67026a93e41fcbbd3f132bc3
 #EXTINF:-1 tvg-name="åæä¹¡æ" group-title="其他",åæä¹¡æ
 https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746393735&key=9d6ca0a9c59b1876be2ef4320b7283d8
 #EXTINF:-1 tvg-name="åæå«è§" group-title="其他",åæå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000004972569.m3u8
 #EXTINF:-1 tvg-name="åæå«è§" group-title="其他",åæå«è§
+http://goo.bkpcp.top/mg/jlws
+#EXTINF:-1 tvg-name="åæå«è§" group-title="其他",åæå«è§
 http://z.b.bkpcp.top/m.php?id=jlws
 #EXTINF:-1 tvg-name="åæå«è§" group-title="其他",åæå«è§
 http://j.x.bkpcp.top/jx/JILHD
-#EXTINF:-1 tvg-name="åæå«è§" group-title="其他",åæå«è§
-http://goo.bkpcp.top/mg/jlws
-#EXTINF:-1 tvg-name="åæçæ´»" group-title="其他",åæçæ´»
-https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d
 #EXTINF:-1 tvg-name="åæçæ´»" group-title="其他",åæçæ´»
 https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af
+#EXTINF:-1 tvg-name="åæçæ´»" group-title="其他",åæçæ´»
+https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d
 #EXTINF:-1 tvg-name="åæé½å¸" group-title="其他",åæé½å¸
 https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775
 #EXTINF:-1 tvg-name="åæé½å¸" group-title="其他",åæé½å¸
@@ -624,9 +642,9 @@ rtmp://play-sh.quklive.com/live/1672366847646284
 #EXTINF:-1 tvg-name="å¤§å®ç»¼å" group-title="其他",å¤§å®ç»¼å
 http://live.daningtv.com/aac_dngb/playlist.m3u8
 #EXTINF:-1 tvg-name="å¤§æ¹¾åºå«è§" group-title="其他",å¤§æ¹¾åºå«è§
-http://goo.bkpcp.top/mg/dwqws
-#EXTINF:-1 tvg-name="å¤§æ¹¾åºå«è§" group-title="其他",å¤§æ¹¾åºå«è§
 http://z.b.bkpcp.top/m.php?id=dwqws
+#EXTINF:-1 tvg-name="å¤§æ¹¾åºå«è§" group-title="其他",å¤§æ¹¾åºå«è§
+http://goo.bkpcp.top/mg/dwqws
 #EXTINF:-1 tvg-name="å¤©æ ç»å¸" group-title="其他",å¤©æ ç»å¸
 https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="å¤©æ´¥å«è§" group-title="其他",å¤©æ´¥å«è§
@@ -666,11 +684,11 @@ http://j.x.bkpcp.top/jx/ANHUIHD
 #EXTINF:-1 tvg-name="å®å¾½å¯¼è§" group-title="其他",å®å¾½å¯¼è§
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 tvg-name="å®å¾½ç»æµçæ´»" group-title="其他",å®å¾½ç»æµçæ´»
-https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1746307365&key=eacbd8c7b284760ddec25b1dc3992bad
-#EXTINF:-1 tvg-name="å®å¾½ç»æµçæ´»" group-title="其他",å®å¾½ç»æµçæ´»
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 #EXTINF:-1 tvg-name="å®å¾½ç»æµçæ´»" group-title="其他",å®å¾½ç»æµçæ´»
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1746292937&key=79ac954604c0abc146445a9603966f0a
+#EXTINF:-1 tvg-name="å®å¾½ç»æµçæ´»" group-title="其他",å®å¾½ç»æµçæ´»
+https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1746307365&key=eacbd8c7b284760ddec25b1dc3992bad
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
 https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
@@ -678,11 +696,11 @@ https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c288
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
 https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
-https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
+https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
 https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
 #EXTINF:-1 tvg-name="å®å¾½ç»¼èºä½è²" group-title="其他",å®å¾½ç»¼èºä½è²
-https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
+https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 #EXTINF:-1 tvg-name="å®é¡ºæ°é»" group-title="其他",å®é¡ºæ°é»
 https://ls.qingting.fm/live/5022203/64k.m3u8
 #EXTINF:-1 tvg-name="å®é¡ºæ°é»" group-title="其他",å®é¡ºæ°é»
@@ -770,29 +788,29 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8
 #EXTINF:-1 tvg-name="å±±è¥¿å«è§" group-title="其他",å±±è¥¿å«è§
 http://j.x.bkpcp.top/jx/SXWS
 #EXTINF:-1 tvg-name="å±±è¥¿å«è§" group-title="其他",å±±è¥¿å«è§
-https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
-#EXTINF:-1 tvg-name="å±±è¥¿å«è§" group-title="其他",å±±è¥¿å«è§
 https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746292937&key=8097fcc15ecf55c37b8908da7be2be63
+#EXTINF:-1 tvg-name="å±±è¥¿å«è§" group-title="其他",å±±è¥¿å«è§
+https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
 #EXTINF:-1 tvg-name="å±±è¥¿å½±è§" group-title="其他",å±±è¥¿å½±è§
 https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1746307365&key=a8b9568fc8b9a14d097cb74c31fed7ed
 #EXTINF:-1 tvg-name="å±±è¥¿å½±è§" group-title="其他",å±±è¥¿å½±è§
 https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1745796321&key=0721c661fb4b291613b070d85d8af084
 #EXTINF:-1 tvg-name="å±±è¥¿æä½çæ´»" group-title="其他",å±±è¥¿æä½çæ´»
-https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746307365&key=1cf53f641a43923de396153d3e9e40b6
-#EXTINF:-1 tvg-name="å±±è¥¿æä½çæ´»" group-title="其他",å±±è¥¿æä½çæ´»
 https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1745796321&key=5d07585f428e3bbbe66ef7a534c8db1e
 #EXTINF:-1 tvg-name="å±±è¥¿æä½çæ´»" group-title="其他",å±±è¥¿æä½çæ´»
 https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746393735&key=ef71ca0281e5b344d896cad03a642087
-#EXTINF:-1 tvg-name="å±±è¥¿ç¤¾ä¼ä¸æ³æ²»" group-title="其他",å±±è¥¿ç¤¾ä¼ä¸æ³æ²»
-https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1745796321&key=71bbd0d7dc1eb84139ebea659e164651
+#EXTINF:-1 tvg-name="å±±è¥¿æä½çæ´»" group-title="其他",å±±è¥¿æä½çæ´»
+https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746307365&key=1cf53f641a43923de396153d3e9e40b6
 #EXTINF:-1 tvg-name="å±±è¥¿ç¤¾ä¼ä¸æ³æ²»" group-title="其他",å±±è¥¿ç¤¾ä¼ä¸æ³æ²»
 https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746307365&key=9694e5e21a889c83c54bbf66c0e524a0
 #EXTINF:-1 tvg-name="å±±è¥¿ç¤¾ä¼ä¸æ³æ²»" group-title="其他",å±±è¥¿ç¤¾ä¼ä¸æ³æ²»
+https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1745796321&key=71bbd0d7dc1eb84139ebea659e164651
+#EXTINF:-1 tvg-name="å±±è¥¿ç¤¾ä¼ä¸æ³æ²»" group-title="其他",å±±è¥¿ç¤¾ä¼ä¸æ³æ²»
 https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746393735&key=cf4f8ab07efd070291584465074e9386
 #EXTINF:-1 tvg-name="å±±è¥¿ç»æµ" group-title="其他",å±±è¥¿ç»æµ
-https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1746307365&key=9efd994033ee8bd840c01f930811f94a
-#EXTINF:-1 tvg-name="å±±è¥¿ç»æµ" group-title="其他",å±±è¥¿ç»æµ
 https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1745796321&key=f20ee9d210e6bb63a4a7d65e67bdec2b
+#EXTINF:-1 tvg-name="å±±è¥¿ç»æµ" group-title="其他",å±±è¥¿ç»æµ
+https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1746307365&key=9efd994033ee8bd840c01f930811f94a
 #EXTINF:-1 tvg-name="åµæ³ç»¼å" group-title="其他",åµæ³ç»¼å
 http://goo.bkpcp.top/mg/ssxwzh
 #EXTINF:-1 tvg-name="å·©ä¹æ°é»ç»¼å" group-title="其他",å·©ä¹æ°é»ç»¼å
@@ -820,17 +838,17 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
 #EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
 http://goo.bkpcp.top/mg/gdws
 #EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
-http://j.x.bkpcp.top/jx/GUANGDHD
-#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
-http://z.b.bkpcp.top/m.php?id=gdws
-#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
-http://j.x.bkpcp.top/jx/GUANGDHD
-#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 #EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
-http://goo.bkpcp.top/mg/gdws
+http://z.b.bkpcp.top/m.php?id=gdws
+#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
+http://j.x.bkpcp.top/jx/GUANGDHD
+#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
+http://j.x.bkpcp.top/jx/GUANGDHD
 #EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
 http://z.b.bkpcp.top/m.php?id=gdws
+#EXTINF:-1 tvg-name="å¹¿ä¸å«è§" group-title="其他",å¹¿ä¸å«è§
+http://goo.bkpcp.top/mg/gdws
 #EXTINF:-1 tvg-name="å¹¿ä¸ç æ±" group-title="其他",å¹¿ä¸ç æ±
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="å¹¿å·å½±è§" group-title="其他",å¹¿å·å½±è§
@@ -838,25 +856,25 @@ https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1746292937&key=a30a89b42998137
 #EXTINF:-1 tvg-name="å¹¿å·å½±è§" group-title="其他",å¹¿å·å½±è§
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1746393735&key=1c3dbffdc7f539bde2e1cf2100bb4266
 #EXTINF:-1 tvg-name="å¹¿å·ç»¼å" group-title="其他",å¹¿å·ç»¼å
-https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746393735&key=2b88a832f53237919a3924cdaeda3a0d
-#EXTINF:-1 tvg-name="å¹¿å·ç»¼å" group-title="其他",å¹¿å·ç»¼å
 https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746289777&key=d60e81860f262e40617e934abf53669b
+#EXTINF:-1 tvg-name="å¹¿å·ç»¼å" group-title="其他",å¹¿å·ç»¼å
+https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746393735&key=2b88a832f53237919a3924cdaeda3a0d
 #EXTINF:-1 tvg-name="å¹¿å·ç»¼å" group-title="其他",å¹¿å·ç»¼å
 https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746292937&key=20079a0c421e334c8ff6f63f230b8038
 #EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
 #EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
-http://z.b.bkpcp.top/m.php?id=gxws
-#EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
 http://goo.bkpcp.top/mg/gxws
+#EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
+http://z.b.bkpcp.top/m.php?id=gxws
 #EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" group-title="其他",å¹¿è¥¿å«è§
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 #EXTINF:-1 tvg-name="å¹¿è¥¿å½é" group-title="其他",å¹¿è¥¿å½é
-http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
-#EXTINF:-1 tvg-name="å¹¿è¥¿å½é" group-title="其他",å¹¿è¥¿å½é
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-name="å¹¿è¥¿å½é" group-title="其他",å¹¿è¥¿å½é
+http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 #EXTINF:-1 tvg-name="å»¶è¾¹-2" group-title="其他",å»¶è¾¹-2
 http://stream5.jlntv.cn/wq/playlist.m3u8
 #EXTINF:-1 tvg-name="å¼å°æåææ¸¸" group-title="其他",å¼å°æåææ¸¸
@@ -868,9 +886,9 @@ http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 #EXTINF:-1 tvg-name="å¾å·æ°èç¶å" group-title="其他",å¾å·æ°èç¶å
 http://z.b.bkpcp.top/m.php?id=xzxwzh
 #EXTINF:-1 tvg-name="å¾·æ ç»¼å" group-title="其他",å¾·æ ç»¼å
-http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-#EXTINF:-1 tvg-name="å¾·æ ç»¼å" group-title="其他",å¾·æ ç»¼å
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 tvg-name="å¾·æ ç»¼å" group-title="其他",å¾·æ ç»¼å
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="å¿«ä¹åé" group-title="其他",å¿«ä¹åé
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-name="æä»ç»¼å" group-title="其他",æä»ç»¼å
@@ -920,11 +938,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 #EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 #EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
+http://goo.bkpcp.top/mg/xjws
+#EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
 http://z.b.bkpcp.top/m.php?id=xjws
 #EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
 http://j.x.bkpcp.top/jx/XJWS
-#EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
-http://goo.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
 http://j.x.bkpcp.top/jx/XJWS
 #EXTINF:-1 tvg-name="æ°çå«è§" group-title="其他",æ°çå«è§
@@ -946,9 +964,9 @@ https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746393735&key=647ef0ee7c0
 #EXTINF:-1 tvg-name="æ°é»ç»¼å" group-title="其他",æ°é»ç»¼å
 https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746379256&key=0f50abfb27cedee7672bcf626d21f83b
 #EXTINF:-1 tvg-name="æ°é»ç»¼å" group-title="其他",æ°é»ç»¼å
-https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746307365&key=934041caefb0bfa77af7ffc44707320c
-#EXTINF:-1 tvg-name="æ°é»ç»¼å" group-title="其他",æ°é»ç»¼å
 https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746292937&key=2c0730250b4adabbdab89ad23f78c053
+#EXTINF:-1 tvg-name="æ°é»ç»¼å" group-title="其他",æ°é»ç»¼å
+https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746307365&key=934041caefb0bfa77af7ffc44707320c
 #EXTINF:-1 tvg-name="æ¹åä¸å¥" group-title="其他",æ¹åä¸å¥
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 #EXTINF:-1 tvg-name="æ çº¿æ°é»" group-title="其他",æ çº¿æ°é»
@@ -994,9 +1012,9 @@ http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
 #EXTINF:-1 tvg-name="æ¢æ²³å£ç»¼å" group-title="其他",æ¢æ²³å£ç»¼å
 http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 #EXTINF:-1 tvg-name="æ¬¢ç¬å§åº" group-title="其他",æ¬¢ç¬å§åº
-http://gat.bkpcp.top/ymg.php?id=hxjc
-#EXTINF:-1 tvg-name="æ¬¢ç¬å§åº" group-title="其他",æ¬¢ç¬å§åº
 http://goo.bkpcp.top/mg/hxjc
+#EXTINF:-1 tvg-name="æ¬¢ç¬å§åº" group-title="其他",æ¬¢ç¬å§åº
+http://gat.bkpcp.top/ymg.php?id=hxjc
 #EXTINF:-1 tvg-name="æ¬¢ç¬å§åº" group-title="其他",æ¬¢ç¬å§åº
 http://z.b.bkpcp.top/m.php?id=hxjc
 #EXTINF:-1 tvg-name="æ­¦å¨æ°é»" group-title="其他",æ­¦å¨æ°é»
@@ -1062,13 +1080,13 @@ https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
-https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746307365&key=f8b778466518d5f6d89b1a38fcbea28d
-#EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
-https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746292937&key=9dc8fc082e1d72b74063dfc2bc945e16
-#EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
 https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746379256&key=3505bde88f415af4e966dafa916ad8ae
 #EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
+https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746307365&key=f8b778466518d5f6d89b1a38fcbea28d
+#EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
 https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1745774515&key=fec9ea387b470ccb0dc8e6e0e5b36bec
+#EXTINF:-1 tvg-name="æ²³ååæ°" group-title="其他",æ²³ååæ°
+https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746292937&key=9dc8fc082e1d72b74063dfc2bc945e16
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
@@ -1076,15 +1094,13 @@ http://z.b.bkpcp.top/m.php?id=hbws
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
-https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746393735&key=a66c9a98bfcaec74a3a1521fe1ceae40
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746379256&key=a57b84a2794040fb1e29774491cff353
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746372302&key=b89007ab1e7b4801eaa22ec0048feb91
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
-https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746379256&key=a57b84a2794040fb1e29774491cff353
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746393735&key=a66c9a98bfcaec74a3a1521fe1ceae40
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
 http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
-#EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
-https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746379256&key=4da081270bc85d02099091b47a9ee5dd
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
 https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746307365&key=ac1ef10a10a447846c16428759df6b95
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
@@ -1093,16 +1109,18 @@ https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746292937&key=31037b0f5b4095899
 https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1745774515&key=ce739e0d0528ad5a5e6434e48c963ced
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
 https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746393735&key=c6af04dacacc8befbdb92a0fec4c60ee
+#EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
+https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746379256&key=4da081270bc85d02099091b47a9ee5dd
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8
-#EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
-http://goo.bkpcp.top/mg/hnws
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://z.b.bkpcp.top/m.php?id=hnws
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://j.x.bkpcp.top/jx/HENHD
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
+http://goo.bkpcp.top/mg/hnws
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="æ²³åå«è§" group-title="其他",æ²³åå«è§
@@ -1118,11 +1136,11 @@ https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1746393735&key=b741672d258ca54d25
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
 http://1.94.31.214/php/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
-https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746393735&key=15d3cc47dac12d622b6ca5af30779f06
+https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1745796321&key=fe18400b0aeee777efcd1e3282435d28
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746307365&key=d2cc347e46058bc7b0e9200005d7f1ca
 #EXTINF:-1 tvg-name="æ²³åé½å¸" group-title="其他",æ²³åé½å¸
-https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1745796321&key=fe18400b0aeee777efcd1e3282435d28
+https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746393735&key=15d3cc47dac12d622b6ca5af30779f06
 #EXTINF:-1 tvg-name="æ³é³æ°é»ç»¼å" group-title="其他",æ³é³æ°é»ç»¼å
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="æ³æ²»å¤©å°" group-title="其他",æ³æ²»å¤©å°
@@ -1178,11 +1196,11 @@ http://j.x.bkpcp.top/jx/HAINHD
 #EXTINF:-1 tvg-name="æµ·åæ°é»" group-title="其他",æµ·åæ°é»
 http://ls.qingting.fm/live/1861.m3u8
 #EXTINF:-1 tvg-name="æµ·å®æ°é»ç»¼å" group-title="其他",æµ·å®æ°é»ç»¼å
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&amp;tpid=1708007815
+#EXTINF:-1 tvg-name="æµ·å®æ°é»ç»¼å" group-title="其他",æµ·å®æ°é»ç»¼å
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&amp;amp;tpid=1708007815
 #EXTINF:-1 tvg-name="æµ·å®æ°é»ç»¼å" group-title="其他",æµ·å®æ°é»ç»¼å
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
-#EXTINF:-1 tvg-name="æµ·å®æ°é»ç»¼å" group-title="其他",æµ·å®æ°é»ç»¼å
-https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&amp;tpid=1708007815
 #EXTINF:-1 tvg-name="æµ·å®æ°é»ç»¼å" group-title="其他",æµ·å®æ°é»ç»¼å
 http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-name="æ·å·çµè§" group-title="其他",æ·å·çµè§
@@ -1224,17 +1242,17 @@ http://z.b.bkpcp.top/m.php?id=yxfy
 #EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
 #EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
-http://goo.bkpcp.top/mg/hubws
-#EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
 http://z.b.bkpcp.top/m.php?id=hubws
+#EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
+http://goo.bkpcp.top/mg/hubws
 #EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
 http://j.x.bkpcp.top/jx/HUBEIHD
 #EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
-http://j.x.bkpcp.top/jx/HUNANHD
-#EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
 http://z.b.bkpcp.top/m.php?id=hunws
+#EXTINF:-1 tvg-name="æ¹åå«è§" group-title="其他",æ¹åå«è§
+http://j.x.bkpcp.top/jx/HUNANHD
 #EXTINF:-1 tvg-name="æº§æ°´æ°é»ç»¼å" group-title="其他",æº§æ°´æ°é»ç»¼å
 https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 #EXTINF:-1 tvg-name="æº§æ°´æ°é»ç»¼å" group-title="其他",æº§æ°´æ°é»ç»¼å
@@ -1264,9 +1282,9 @@ http://goo.bkpcp.top/mg/gsws
 #EXTINF:-1 tvg-name="çèå«è§" group-title="其他",çèå«è§
 http://z.b.bkpcp.top/m.php?id=gsws
 #EXTINF:-1 tvg-name="çèå«è§" group-title="其他",çèå«è§
-http://j.x.bkpcp.top/jx/GSWS
-#EXTINF:-1 tvg-name="çèå«è§" group-title="其他",çèå«è§
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="çèå«è§" group-title="其他",çèå«è§
+http://j.x.bkpcp.top/jx/GSWS
 #EXTINF:-1 tvg-name="çµè§æå" group-title="其他",çµè§æå
 rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 #EXTINF:-1 tvg-name="çµè§æå" group-title="其他",çµè§æå
@@ -1326,11 +1344,11 @@ http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 tvg-name="ç¬¬ä¸è´¢ç»" group-title="其他",ç¬¬ä¸è´¢ç»
 https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746393735&key=7b164ddded8a7d9ea3ba4a8d86999077
 #EXTINF:-1 tvg-name="ç¬¬ä¸è´¢ç»" group-title="其他",ç¬¬ä¸è´¢ç»
-https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746379256&key=e6deaa8fc1e0662447be8f3b7c649f70
+https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746307365&key=7477fec974c356ed2cf91be43a1dc893
 #EXTINF:-1 tvg-name="ç¬¬ä¸è´¢ç»" group-title="其他",ç¬¬ä¸è´¢ç»
 https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746292937&key=8dbd6113ce0541e6b92e8f47782ef1f6
 #EXTINF:-1 tvg-name="ç¬¬ä¸è´¢ç»" group-title="其他",ç¬¬ä¸è´¢ç»
-https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746307365&key=7477fec974c356ed2cf91be43a1dc893
+https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746379256&key=e6deaa8fc1e0662447be8f3b7c649f70
 #EXTINF:-1 tvg-name="ç²¾åä½è²" group-title="其他",ç²¾åä½è²
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-name="ç²¾åä½è²" group-title="其他",ç²¾åä½è²
@@ -1340,9 +1358,9 @@ https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
-https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-#EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
@@ -1350,9 +1368,9 @@ https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
-https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
+https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²" group-title="其他",çº¬æ¥ä½è²
 https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="çº¬æ¥è²ä¹" group-title="其他",çº¬æ¥è²ä¹
@@ -1404,9 +1422,9 @@ http://goo.bkpcp.top/mg/xzws
 #EXTINF:-1 tvg-name="è¥¿èå«è§" group-title="其他",è¥¿èå«è§
 http://z.b.bkpcp.top/m.php?id=xzws
 #EXTINF:-1 tvg-name="è¥¿èå«è§" group-title="其他",è¥¿èå«è§
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=afa6fbb9cc7add965ab98221ae0d8596&time=681691e7
-#EXTINF:-1 tvg-name="è¥¿èå«è§" group-title="其他",è¥¿èå«è§
 https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4eca0fb428c7390f0e7cdee6a0044c78&time=6817e4bb
+#EXTINF:-1 tvg-name="è¥¿èå«è§" group-title="其他",è¥¿èå«è§
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=afa6fbb9cc7add965ab98221ae0d8596&time=681691e7
 #EXTINF:-1 tvg-name="è¥¿èå«è§" group-title="其他",è¥¿èå«è§
 https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=ddde6b45f5065c5066ded53d6559f31c&time=68134627
 #EXTINF:-1 tvg-name="è´µå·å«è§" group-title="其他",è´µå·å«è§
@@ -1568,13 +1586,13 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 #EXTINF:-1 tvg-name="é«å°å¤«ç½ç" group-title="其他",é«å°å¤«ç½ç
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 #EXTINF:-1 tvg-name="é­åè¶³ç" group-title="其他",é­åè¶³ç
-http://gat.bkpcp.top/ymg.php?id=mlzq
-#EXTINF:-1 tvg-name="é­åè¶³ç" group-title="其他",é­åè¶³ç
 http://goo.bkpcp.top/mg/mlzq
 #EXTINF:-1 tvg-name="é­åè¶³ç" group-title="其他",é­åè¶³ç
-http://z.b.bkpcp.top/m.php?id=mlzq
+http://gat.bkpcp.top/ymg.php?id=mlzq
 #EXTINF:-1 tvg-name="é­åè¶³ç" group-title="其他",é­åè¶³ç
 https://tv.fanmingming.com/api/v6?id=mlyy
+#EXTINF:-1 tvg-name="é­åè¶³ç" group-title="其他",é­åè¶³ç
+http://z.b.bkpcp.top/m.php?id=mlzq
 #EXTINF:-1 tvg-name="é¹¿æ³ä¸å¥" group-title="其他",é¹¿æ³ä¸å¥
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="é¹¿æ³ä¸å¥" group-title="其他",é¹¿æ³ä¸å¥
@@ -1614,33 +1632,33 @@ http://zzy789.xyz/douyu1.php?id=4373285
 #EXTINF:-1 tvg-name="全球大片" group-title="其他",全球大片
 http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="公共频道" group-title="其他",公共频道
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=51dfe4624fa59d5a6a8c80695a1fdd40&wsTime=1755536421
-#EXTINF:-1 tvg-name="刀刀影院✔原" group-title="其他",刀刀影院✔原
-http://zzy789.xyz/douyu1.php?id=747764
-#EXTINF:-1 tvg-name="动漫超燃" group-title="其他",动漫超燃
-http://zzy789.xyz/douyu1.php?id=1174353
-#EXTINF:-1 tvg-name="华语影视✔原" group-title="其他",华语影视✔原
-http://zzy789.xyz/douyu1.php?id=3928
-#EXTINF:-1 tvg-name="华语影院" group-title="其他",华语影院
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c9b374925969c36946cbb57f2359741c&wsTime=1755579610
 #EXTINF:-1 tvg-name="华语影院" group-title="其他",华语影院
 http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="华语房✔原" group-title="其他",华语房✔原
 http://zzy789.xyz/douyu1.php?id=85894
+#EXTINF:-1 tvg-name="可乐影院" group-title="其他",可乐影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 #EXTINF:-1 tvg-name="咪咕体育" group-title="其他",咪咕体育
 http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" group-title="其他",咪咕视频
 http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ad9eea71749db4f09a6fbe4ba72b5932&wsTime=1755536421
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a946ab6ae6462a3cd54bcdd8ae7b4079&wsTime=1755579610
+#EXTINF:-1 tvg-name="女神金" group-title="其他",女神金
+http://zzy789.xyz/douyu1.php?id=747764
 #EXTINF:-1 tvg-name="宋小宝经典小品" group-title="其他",宋小宝经典小品
 http://zzy789.xyz/douyu1.php?id=9817729
 #EXTINF:-1 tvg-name="宝宝动画" group-title="其他",宝宝动画
 http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="怡宝影院" group-title="其他",怡宝影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
 #EXTINF:-1 tvg-name="戏曲精选" group-title="其他",戏曲精选
 http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="文物宝库" group-title="其他",文物宝库
-http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=88d24924c41b4a43377bc346db311e83&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=45c07a1cc481666ef351f26fbd852b43&wsTime=1755579610
+#EXTINF:-1 tvg-name="斗鱼电影HD1" group-title="其他",斗鱼电影HD1
+http://zzy789.xyz/douyu1.php?id=4246519
 #EXTINF:-1 tvg-name="斗鱼电影HD7" group-title="其他",斗鱼电影HD7
 http://zzy789.xyz/douyu1.php?id=20415
 #EXTINF:-1 tvg-name="斗鱼电视剧1" group-title="其他",斗鱼电视剧1
@@ -1662,17 +1680,13 @@ http://zzy789.xyz/douyu1.php?id=431460
 #EXTINF:-1 tvg-name="斗鱼音乐MV频道" group-title="其他",斗鱼音乐MV频道
 http://zzy789.xyz/douyu1.php?id=3870925
 #EXTINF:-1 tvg-name="新闻频道" group-title="其他",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=249bfbb2695b06126b1174f0e8a629f8&wsTime=1755536421
-#EXTINF:-1 tvg-name="旅游卫视" group-title="其他",旅游卫视
-http://123.129.70.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e312d6ff72225d883d108cf2d3eb12ca&wsTime=1755579610
 #EXTINF:-1 tvg-name="星光影院" group-title="其他",星光影院
 http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="星爷房✔原" group-title="其他",星爷房✔原
 http://zzy789.xyz/douyu1.php?id=122402
 #EXTINF:-1 tvg-name="林正英" group-title="其他",林正英
 http://zzy789.xyz/douyu1.php?id=7356023
-#EXTINF:-1 tvg-name="橙記港剧✔原" group-title="其他",橙記港剧✔原
-http://zzy789.xyz/douyu1.php?id=4549169
 #EXTINF:-1 tvg-name="橙记港剧" group-title="其他",橙记港剧
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
 #EXTINF:-1 tvg-name="欢乐小品" group-title="其他",欢乐小品
@@ -1680,19 +1694,19 @@ http://zzy789.xyz/douyu1.php?id=9403690
 #EXTINF:-1 tvg-name="欢笑剧场4K" group-title="其他",欢笑剧场4K
 http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="欢腾购物" group-title="其他",欢腾购物
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=016e77d29e1daed0f281cdc92f68b110&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d997a05e8858dde9231e55aa6a3aad69&wsTime=1755579610
 #EXTINF:-1 tvg-name="欧美大片" group-title="其他",欧美大片
 http://zzy789.xyz/douyu1.php?id=2793084
 #EXTINF:-1 tvg-name="武术频道" group-title="其他",武术频道
-http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=937367d8ab4ff2241d1019d6f440502c&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=bb0d6669297da0778db9f6ed56879dd9&wsTime=1755579610
 #EXTINF:-1 tvg-name="民生频道" group-title="其他",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=eb8b027ad057041603b0c194f8677c85&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=db9c517e5bf2de86cabbcbb2312ecd30&wsTime=1755579610
 #EXTINF:-1 tvg-name="求索纪录" group-title="其他",求索纪录
 http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="河南乡村频道" group-title="其他",河南乡村频道
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=bf30983939bd75f8e5830aa04f4a0c49&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4f22b7c3107df7473d1b9a4716a009a9&wsTime=1755579610
 #EXTINF:-1 tvg-name="法治频道" group-title="其他",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=813f56622764c367276b32a4809811c0&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=cbd2fcc6a3053d954fa542254798e9fe&wsTime=1755579610
 #EXTINF:-1 tvg-name="游戏风云" group-title="其他",游戏风云
 http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="热门剧场" group-title="其他",热门剧场
@@ -1714,19 +1728,19 @@ http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="电竞天堂" group-title="其他",电竞天堂
 http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="电视剧频道" group-title="其他",电视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=94b5ea0308be3769c8e2d426f11f3cda&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=8354ad877ce68d7ec66d835fcfca6b5a&wsTime=1755579610
 #EXTINF:-1 tvg-name="百变课堂" group-title="其他",百变课堂
 http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="看天下精选" group-title="其他",看天下精选
 http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="睛彩中原" group-title="其他",睛彩中原
-http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8c123a1988110d3d036fc441c7d50a6a&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=1a209c49faceb8f7c54bd8022f520592&wsTime=1755579610
 #EXTINF:-1 tvg-name="神乐影院" group-title="其他",神乐影院
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 #EXTINF:-1 tvg-name="神乐欧美影院" group-title="其他",神乐欧美影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-name="移动戏曲频道" group-title="其他",移动戏曲频道
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=f3577b0b06b2d3267c9c8b5a9542d15c&wsTime=1755536421
+https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=88ebf0b1c3f5fb5d39570ea9361f5d43&wsTime=1755579610
 #EXTINF:-1 tvg-name="粤语综艺" group-title="其他",粤语综艺
 http://zzy789.xyz/douyu1.php?id=7919720
 #EXTINF:-1 tvg-name="精彩短剧看不停" group-title="其他",精彩短剧看不停
@@ -1735,6 +1749,8 @@ http://zzy789.xyz/douyu1.php?id=11824307
 http://zzy789.xyz/douyu1.php?id=6091425
 #EXTINF:-1 tvg-name="经典剧集✔原" group-title="其他",经典剧集✔原
 http://zzy789.xyz/douyu1.php?id=6863367
+#EXTINF:-1 tvg-name="经典小品" group-title="其他",经典小品
+http://zzy789.xyz/douyu1.php?id=9067836
 #EXTINF:-1 tvg-name="网神影厅" group-title="其他",网神影厅
 http://zzy789.xyz/douyu1.php?id=508118
 #EXTINF:-1 tvg-name="茶频道" group-title="其他",茶频道
@@ -1742,7 +1758,9 @@ http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" group-title="其他",谍战剧场
 http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="象视界" group-title="其他",象视界
-http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=fe3594428534d7d43ee4be6e447c06a7&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=6a2dfed3040efb68bfb85fa685389a6a&wsTime=1755579610
+#EXTINF:-1 tvg-name="贝爷MAX厅" group-title="其他",贝爷MAX厅
+http://zzy789.xyz/douyu1.php?id=4332
 #EXTINF:-1 tvg-name="贝爷欧美IMAX厅" group-title="其他",贝爷欧美IMAX厅
 http://zzy789.xyz/douyu1.php?id=4332
 #EXTINF:-1 tvg-name="贝爷求生影视2" group-title="其他",贝爷求生影视2
@@ -1752,7 +1770,7 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
 #EXTINF:-1 tvg-name="赵本山经典小品" group-title="其他",赵本山经典小品
 http://zzy789.xyz/douyu1.php?id=9817716
 #EXTINF:-1 tvg-name="都市频道" group-title="其他",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=62dfc4a7611ed9edf0895376e0589bb4&wsTime=1755536421
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=7e0f30efb84603d9bcb9e0619808ac33&wsTime=1755579610
 #EXTINF:-1 tvg-name="陪你一起看剧" group-title="其他",陪你一起看剧
 http://zzy789.xyz/douyu1.php?id=11922242
 #EXTINF:-1 tvg-name="青春动漫" group-title="其他",青春动漫
