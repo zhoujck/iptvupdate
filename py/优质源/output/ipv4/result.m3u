@@ -14,7 +14,7 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bd1a6a9469ea01845038b271acaac821&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2c01243a5a401a3c33b5e3f26335d448&wsTime=1755763214
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="宁夏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -92,9 +92,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
 #EXTINF:-1 tvg-name="万合出品"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/万合出品.png" group-title="☘️轮播台",万合出品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 #EXTINF:-1 tvg-name="特辑电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="☘️轮播台",特辑电影
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-#EXTINF:-1 tvg-name="特辑电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="☘️轮播台",特辑电影
 http://zzy789.xyz/douyu1.php?id=3637778
+#EXTINF:-1 tvg-name="特辑电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="☘️轮播台",特辑电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 #EXTINF:-1 tvg-name="粤语电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="☘️轮播台",粤语电影
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 #EXTINF:-1 tvg-name="粤语电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="☘️轮播台",粤语电影
@@ -132,7 +132,7 @@ http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="☘️上海市",哈哈炫动
 http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="☘️河南省",梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=1f5c95da80b8d19970edf0e3671ccae6&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=5cae34f22fd223f73072ab68560fae23&wsTime=1755763214
 #EXTINF:-1 tvg-name="金鹰纪实"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南省",金鹰纪实
 http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️江苏省",苏州文化生活
@@ -258,7 +258,7 @@ http://zzy789.xyz/douyu1.php?id=4373285
 #EXTINF:-1 tvg-name="全球大片" group-title="其他",全球大片
 http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="公共频道" group-title="其他",公共频道
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=fa0ba447397b98685dd6481b70137275&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=a3f0afdd5d15bdb55be1e7b0fa55e7b1&wsTime=1755763214
 #EXTINF:-1 tvg-name="冰冰影厅✔原" group-title="其他",冰冰影厅✔原
 http://zzy789.xyz/douyu1.php?id=74374
 #EXTINF:-1 tvg-name="华语影视✔原" group-title="其他",华语影视✔原
@@ -272,7 +272,7 @@ http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" group-title="其他",咪咕视频
 http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=77dc9a51dd33fe315fcb3e634e9c65e5&wsTime=1755752411
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=32d231e0fa2463ad5182d15011a7e680&wsTime=1755763214
 #EXTINF:-1 tvg-name="女神金" group-title="其他",女神金
 http://zzy789.xyz/douyu1.php?id=747764
 #EXTINF:-1 tvg-name="宋小宝经典小品" group-title="其他",宋小宝经典小品
@@ -282,7 +282,7 @@ http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="戏曲精选" group-title="其他",戏曲精选
 http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="文物宝库" group-title="其他",文物宝库
-http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=bb92f48eef2f3285719ed9c6f8f86ae1&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=3844e31b537ca829d4ec49944431c0a4&wsTime=1755763214
 #EXTINF:-1 tvg-name="斗鱼电影HD4" group-title="其他",斗鱼电影HD4
 http://zzy789.xyz/douyu1.php?id=85894
 #EXTINF:-1 tvg-name="斗鱼电影HD40" group-title="其他",斗鱼电影HD40
@@ -308,7 +308,7 @@ http://zzy789.xyz/douyu1.php?id=431460
 #EXTINF:-1 tvg-name="斗鱼音乐MV频道" group-title="其他",斗鱼音乐MV频道
 http://zzy789.xyz/douyu1.php?id=3870925
 #EXTINF:-1 tvg-name="新闻频道" group-title="其他",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=4b289befe3216f4a062f6d5230451827&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f2def30b0eec864916b7e5b6dbff71b6&wsTime=1755763214
 #EXTINF:-1 tvg-name="星光影院" group-title="其他",星光影院
 http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="星爷房✔原" group-title="其他",星爷房✔原
@@ -322,19 +322,19 @@ http://zzy789.xyz/douyu1.php?id=9403690
 #EXTINF:-1 tvg-name="欢笑剧场4K" group-title="其他",欢笑剧场4K
 http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="欢腾购物" group-title="其他",欢腾购物
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d55a547bcf58081dcddd41451ffbed72&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=abcb32cfb4bc4f556ad3c7d2405772a9&wsTime=1755763214
 #EXTINF:-1 tvg-name="欧美大片" group-title="其他",欧美大片
 http://zzy789.xyz/douyu1.php?id=2793084
 #EXTINF:-1 tvg-name="武术频道" group-title="其他",武术频道
-http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=0f3728abcff93cbe59888e139be46ac4&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=0c1a9d6f6557174f0cf67cd112b481c7&wsTime=1755763214
 #EXTINF:-1 tvg-name="民生频道" group-title="其他",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=449b1acda3e8ca76578fd50f92d412b0&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bc8cb8f3718aba34e89fbdfc1f51674c&wsTime=1755763214
 #EXTINF:-1 tvg-name="求索纪录" group-title="其他",求索纪录
 http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="河南乡村频道" group-title="其他",河南乡村频道
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ff6dae1c763b6093b587a41ce9ddf1f2&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=27a0ac80b4422e789f0636eeed29622b&wsTime=1755763214
 #EXTINF:-1 tvg-name="法治频道" group-title="其他",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=3c4f8881a54a399da1cbe1f96f39de4b&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=1ac63a846092ef9fad248bdcb1cca2da&wsTime=1755763214
 #EXTINF:-1 tvg-name="游戏风云" group-title="其他",游戏风云
 http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="热门剧场" group-title="其他",热门剧场
@@ -356,19 +356,19 @@ http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="电竞天堂" group-title="其他",电竞天堂
 http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="电视剧频道" group-title="其他",电视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=f8b5988191c0c957b1bea4e51ceaf8e5&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=aa9e1e1959fdd346413b3b11a7c31ab7&wsTime=1755763214
 #EXTINF:-1 tvg-name="百变课堂" group-title="其他",百变课堂
 http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="看天下精选" group-title="其他",看天下精选
 http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="睛彩中原" group-title="其他",睛彩中原
-http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=607269610ff178a82a10229c668d967b&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=b0e8dac21258ccae46c08cf4cea5822a&wsTime=1755763214
 #EXTINF:-1 tvg-name="神乐影院" group-title="其他",神乐影院
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 #EXTINF:-1 tvg-name="神乐欧美影院" group-title="其他",神乐欧美影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-name="移动戏曲频道" group-title="其他",移动戏曲频道
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=68c7ff4ff144c6ef46c42ff72330ad8c&wsTime=1755752411
+https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=3b4492ca0bd7e86371e6402dde75aabe&wsTime=1755763214
 #EXTINF:-1 tvg-name="粤语综艺" group-title="其他",粤语综艺
 http://zzy789.xyz/douyu1.php?id=7919720
 #EXTINF:-1 tvg-name="精彩短剧看不停" group-title="其他",精彩短剧看不停
@@ -384,7 +384,7 @@ http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" group-title="其他",谍战剧场
 http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="象视界" group-title="其他",象视界
-http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=d303a4c43dea69bd054ef559404ac2e6&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=d6e730f3eb73fb8c604b48e2af24ebdb&wsTime=1755763214
 #EXTINF:-1 tvg-name="贝爷求生影视2" group-title="其他",贝爷求生影视2
 http://zzy789.xyz/douyu1.php?id=9661369
 #EXTINF:-1 tvg-name="贝贝影院" group-title="其他",贝贝影院
@@ -392,7 +392,7 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
 #EXTINF:-1 tvg-name="赵本山经典小品" group-title="其他",赵本山经典小品
 http://zzy789.xyz/douyu1.php?id=9817716
 #EXTINF:-1 tvg-name="都市频道" group-title="其他",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5776a038b1106f8f1df322999cf983b5&wsTime=1755752411
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a0857a83a3b41369c438d29e7c43b99f&wsTime=1755763214
 #EXTINF:-1 tvg-name="陪你一起看剧" group-title="其他",陪你一起看剧
 http://zzy789.xyz/douyu1.php?id=11922242
 #EXTINF:-1 tvg-name="青春动漫" group-title="其他",青春动漫
