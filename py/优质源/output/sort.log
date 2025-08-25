@@ -1,498 +1,426 @@
-测速日志 2025-08-24 20:48:11
-[2025-08-24 20:48:16] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.61s
-[2025-08-24 20:48:17] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.26s
-[2025-08-24 20:48:17] ✅ 测速成功: http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
+测速日志 2025-08-25 10:03:48
+[2025-08-25 10:03:53] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.64s
+[2025-08-25 10:03:53] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.83s
+[2025-08-25 10:03:53] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.83s
+[2025-08-25 10:03:53] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.40s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.16s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.17s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.17s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.20s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.21s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.25s
+[2025-08-25 10:03:54] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.25s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.40s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000032212/bestzb/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.72s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.73s
-[2025-08-24 20:48:17] ✅ 测速成功: http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.75s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.76s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.78s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.78s
-[2025-08-24 20:48:17] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.79s
-[2025-08-24 20:48:18] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.90s
-[2025-08-24 20:48:18] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.91s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.46s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000032212/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.46s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000007000010003/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.51s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000007000010003/bestzb/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000029972/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031112/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/9001547084732463424/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031207/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000006000040024/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:18] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031206/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000008139/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000006197/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/2000000003000000051/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000004000023658/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000009601/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/1000000006000032327/ystenlive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288011/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.26s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.24s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000070630/wasusyt/index.m3u8
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031112/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.40s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000029972/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031207/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.31s
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000150630/wasusyt/index.m3u8
+[2025-08-25 10:03:54] ✅ 测速成功: http://itv.uat.news/TVOD/9001547084732463424/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031206/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.40s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.31s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/2000000003000000051/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.30s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000006000040024/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.54s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000004000023658/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000006197/ystenlive/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000040630/wasusyt/index.m3u8
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000008139/ystenlive/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
-[2025-08-24 20:48:19] ✅ 测速成功: http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000006000032327/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.56s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/1000000001000009601/ystenlive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288011/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000240630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000020630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000250630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000290630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.51s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.39s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.21s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000070630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000020630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:55] ✅ 测速成功: http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.34s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000040630/wasusyt/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000009/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.28s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000220630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000050630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.25s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000030630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.46s
-[2025-08-24 20:48:20] ✅ 测速成功: https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-   速度: 1722.66KB/s | 数据量: 1.7KB | 总耗时: 0.17s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2025-08-24 20:48:20] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 1465.82KB/s | 数据量: 1.5KB | 总耗时: 0.27s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.41s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000320630/wasusyt/index.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:20] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-   速度: 1452.15KB/s | 数据量: 1.5KB | 总耗时: 0.25s
-[2025-08-24 20:48:20] ✅ 测速成功: http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000250630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000240630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000290630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.20s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.21s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2025-08-24 20:48:20] ✅ 测速成功: http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-   速度: 369.14KB/s | 数据量: 0.4KB | 总耗时: 0.14s
-[2025-08-24 20:48:20] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-   速度: 443.36KB/s | 数据量: 0.4KB | 总耗时: 0.18s
-[2025-08-24 20:48:20] ✅ 测速成功: https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-   速度: 474.61KB/s | 数据量: 0.5KB | 总耗时: 0.52s
-[2025-08-24 20:48:20] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.37s
-[2025-08-24 20:48:20] ✅ 测速成功: https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-   速度: 664.06KB/s | 数据量: 0.7KB | 总耗时: 0.19s
-[2025-08-24 20:48:21] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-   速度: 270.51KB/s | 数据量: 0.3KB | 总耗时: 0.67s
-[2025-08-24 20:48:21] ✅ 测速成功: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-   速度: 707.03KB/s | 数据量: 0.7KB | 总耗时: 0.61s
-[2025-08-24 20:48:21] ✅ 测速成功: https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-   速度: 1055.66KB/s | 数据量: 1.1KB | 总耗时: 0.52s
-[2025-08-24 20:48:21] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.49s
-[2025-08-24 20:48:21] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.58s
-[2025-08-24 20:48:21] ✅ 测速成功: http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-   速度: 357.42KB/s | 数据量: 0.4KB | 总耗时: 0.61s
-[2025-08-24 20:48:21] ✅ 测速成功: https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
-   速度: 1032.23KB/s | 数据量: 1.0KB | 总耗时: 0.79s
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.67s
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.90s
-[2025-08-24 20:48:21] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=c292cc63ea457bdeaba6ef26ba0682f9&wsTime=1756047621 | [Errno 2] No such file or directory: 'ffmpeg'
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.76s
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.58s
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.76s
-[2025-08-24 20:48:21] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.65s
-[2025-08-24 20:48:22] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.21s
-[2025-08-24 20:48:22] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.53s
-[2025-08-24 20:48:22] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000030630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000050630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.34s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000150630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000009/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.33s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000220630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:56] ✅ 测速成功: https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+   速度: 1722.66KB/s | 数据量: 1.7KB | 总耗时: 0.14s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/6000000006000320630/wasusyt/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.21s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.31s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:56] ✅ 测速成功: http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+   速度: 369.14KB/s | 数据量: 0.4KB | 总耗时: 0.21s
+[2025-08-25 10:03:56] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.24s
+[2025-08-25 10:03:56] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+   速度: 1452.15KB/s | 数据量: 1.5KB | 总耗时: 0.31s
+[2025-08-25 10:03:56] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.39s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.53s
+[2025-08-25 10:03:56] ✅ 测速成功: http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.55s
+[2025-08-25 10:03:57] ✅ 测速成功: https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+   速度: 664.06KB/s | 数据量: 0.7KB | 总耗时: 0.20s
+[2025-08-25 10:03:57] ✅ 测速成功: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+   速度: 707.03KB/s | 数据量: 0.7KB | 总耗时: 0.51s
+[2025-08-25 10:03:57] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.39s
+[2025-08-25 10:03:57] ✅ 测速成功: https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+   速度: 1055.66KB/s | 数据量: 1.1KB | 总耗时: 0.51s
+[2025-08-25 10:03:57] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.48s
+[2025-08-25 10:03:57] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+   速度: 270.51KB/s | 数据量: 0.3KB | 总耗时: 0.91s
+[2025-08-25 10:03:57] ✅ 测速成功: https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+   速度: 474.61KB/s | 数据量: 0.5KB | 总耗时: 0.98s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.37s
+[2025-08-25 10:03:57] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+   速度: 443.36KB/s | 数据量: 0.4KB | 总耗时: 0.80s
+[2025-08-25 10:03:57] ✅ 测速成功: https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
+   速度: 1032.23KB/s | 数据量: 1.0KB | 总耗时: 0.60s
+[2025-08-25 10:03:57] ✅ 测速成功: http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+   速度: 357.42KB/s | 数据量: 0.4KB | 总耗时: 0.62s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.30s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
    速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.32s
-[2025-08-24 20:48:22] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-   速度: 24359.25KB/s | 数据量: 464.1KB | 总耗时: 1.39s
-[2025-08-24 20:48:22] ✅ 测速成功: https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-   速度: 27629.05KB/s | 数据量: 464.1KB | 总耗时: 1.27s
-[2025-08-24 20:48:22] ✅ 测速成功: http://112.27.235.94:8000/hls/1/index.m3u8
+[2025-08-25 10:03:57] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=553a2cb5657309c1c2b1702104c80157&wsTime=1756098013 | [Errno 2] No such file or directory: 'ffmpeg'
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.16s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.43s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.55s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.25s
+[2025-08-25 10:03:57] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.21s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/2/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.29s
+[2025-08-25 10:03:58] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 0.38s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/3/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/1/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.33s
+[2025-08-25 10:03:58] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+   速度: 221.68KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/5/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/10/index.m3u8
    速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:22] ✅ 测速成功: http://112.27.235.94:8000/hls/2/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:22] ✅ 测速成功: http://112.27.235.94:8000/hls/3/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:22] ✅ 测速成功: http://112.27.235.94:8000/hls/5/index.m3u8
+[2025-08-25 10:03:58] ✅ 测速成功: http://8.138.7.223/tv/cctv7.m3u8
+   速度: 132.81KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/12/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/14/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:58] ✅ 测速成功: http://8.138.7.223/tv/gzjs.m3u8
+   速度: 133.79KB/s | 数据量: 0.1KB | 总耗时: 0.38s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/16/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.31s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/26/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.31s
+[2025-08-25 10:03:58] ✅ 测速成功: http://113.195.172.192:808/hls/113/index.m3u8
+   速度: 224.61KB/s | 数据量: 0.2KB | 总耗时: 0.38s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/27/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:58] ✅ 测速成功: https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+   速度: 20001.88KB/s | 数据量: 464.1KB | 总耗时: 1.83s
+[2025-08-25 10:03:58] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+   速度: 18430.70KB/s | 数据量: 464.1KB | 总耗时: 1.87s
+[2025-08-25 10:03:58] ✅ 测速成功: http://8.138.7.223/tv/btws.m3u8
+   速度: 117.19KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/36/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:58] ✅ 测速成功: https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+   速度: 369.14KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2025-08-25 10:03:58] ✅ 测速成功: http://112.27.235.94:8000/hls/30/index.m3u8
+   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/41/index.m3u8
    速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.35s
-[2025-08-24 20:48:22] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-   速度: 221.68KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2025-08-24 20:48:22] ✅ 测速成功: http://8.138.7.223/tv/cctv7.m3u8
-   速度: 132.81KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:22] ✅ 测速成功: http://112.27.235.94:8000/hls/10/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:22] ✅ 测速成功: https://migu.188766.xyz/?migutoken=51efa2f9018c449b165ec10980e84bf0&id=CCTV8&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.69s
-[2025-08-24 20:48:22] ✅ 测速成功: https://migu.188766.xyz/?migutoken=b1225aab265399dad0f5323c35192a23&id=CCTV1&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.06s
-[2025-08-24 20:48:22] ✅ 测速成功: https://migu.188766.xyz/?migutoken=0d971466a711d4a0ea837ac9d29da02f&id=CCTV6&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.75s
-[2025-08-24 20:48:22] ✅ 测速成功: https://migu.188766.xyz/?migutoken=1cbe65d253543b406bc765d6c4f4df22&id=CCTV10&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.29s
-[2025-08-24 20:48:23] ✅ 测速成功: https://migu.188766.xyz/?migutoken=fb6855a89c1b2291db2b9899126776ba&id=CCTV3&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.29s
-[2025-08-24 20:48:23] ✅ 测速成功: https://migu.188766.xyz/?migutoken=f898c5323ee1d4b3fbb2e52ce10ac7af&id=CCTV12&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.33s
-[2025-08-24 20:48:23] ✅ 测速成功: http://112.27.235.94:8000/hls/12/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:23] ✅ 测速成功: http://112.27.235.94:8000/hls/14/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2025-08-24 20:48:23] ✅ 测速成功: http://8.138.7.223/tv/gzjs.m3u8
-   速度: 133.79KB/s | 数据量: 0.1KB | 总耗时: 0.43s
-[2025-08-24 20:48:23] ✅ 测速成功: http://112.27.235.94:8000/hls/16/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:23] ✅ 测速成功: https://migu.188766.xyz/?migutoken=304c529ff2d1edb8b1d5c30a6b3a71af&id=CCTV17&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.48s
-[2025-08-24 20:48:23] ✅ 测速成功: https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
-   速度: 124.02KB/s | 数据量: 0.1KB | 总耗时: 0.68s
-[2025-08-24 20:48:23] ✅ 测速成功: https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-   速度: 124.02KB/s | 数据量: 0.1KB | 总耗时: 0.57s
-[2025-08-24 20:48:24] ✅ 测速成功: https://migu.188766.xyz/?migutoken=88f9254bfa0d2f0fdaa35e3633cc035d&id=CCTV9&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.48s
-[2025-08-24 20:48:24] ✅ 测速成功: https://migu.188766.xyz/?migutoken=12e5fb3beadfe3ad2303bbf31312076c&id=CCTV11&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.36s
-[2025-08-24 20:48:24] ✅ 测速成功: http://112.27.235.94:8000/hls/27/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:24] ✅ 测速成功: https://migu.188766.xyz/?migutoken=1757d5a846e8bdcc45ed6295f9413a7f&id=ahws&type=dy
-   速度: 253.91KB/s | 数据量: 0.3KB | 总耗时: 0.67s
-[2025-08-24 20:48:24] ✅ 测速成功: https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-   速度: 369.14KB/s | 数据量: 0.4KB | 总耗时: 0.38s
-[2025-08-24 20:48:24] ✅ 测速成功: https://migu.188766.xyz/?migutoken=7d5391cf1e3b41074db5992924ba050e&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.18s
-[2025-08-24 20:48:25] ✅ 测速成功: http://8.138.7.223/tv/btws.m3u8
-   速度: 117.19KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:25] ✅ 测速成功: http://112.27.235.94:8000/hls/36/index.m3u8
+[2025-08-25 10:03:59] ✅ 测速成功: https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+   速度: 124.02KB/s | 数据量: 0.1KB | 总耗时: 1.22s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/39/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.31s
+[2025-08-25 10:03:59] ✅ 测速成功: http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.76s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/48/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.32s
+[2025-08-25 10:03:59] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
+[2025-08-25 10:03:59] ✅ 测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+   速度: 1154.43KB/s | 数据量: 165.3KB | 总耗时: 1.06s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/37/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.31s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/31/index.m3u8
    速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.35s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=0dcae60c51e8105d8d4af5ab97694d46&id=bjws&type=dy
-   速度: 247.07KB/s | 数据量: 0.2KB | 总耗时: 0.74s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=8837ea57791504f9324b9133d5e4da55&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.26s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=562ba062738e6f7f63bf0f859824fb09&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.54s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=fa5146290e9e89ac3edc5c6f6a0c031c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 1.45s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=be2870818df19149dbadf1363b8e42ab&id=cqws&type=dy
-   速度: 243.16KB/s | 数据量: 0.2KB | 总耗时: 0.69s
-[2025-08-24 20:48:25] ✅ 测速成功: http://112.27.235.94:8000/hls/30/index.m3u8
-   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=58064ef34c5054d61e0f002ef56d1116&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
-   速度: 637.70KB/s | 数据量: 0.6KB | 总耗时: 3.78s
-[2025-08-24 20:48:25] ✅ 测速成功: https://migu.188766.xyz/?migutoken=20e29762c2cf3d9930f5ac7c7281f0aa&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-   速度: 637.70KB/s | 数据量: 0.6KB | 总耗时: 3.80s
-[2025-08-24 20:48:26] ✅ 测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-   速度: 3728.85KB/s | 数据量: 165.3KB | 总耗时: 1.00s
-[2025-08-24 20:48:26] ✅ 测速成功: https://migu.188766.xyz/?migutoken=5c9c51ae05061bb2bc6103b52ee115bc&id=gsws&type=dy
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 0.68s
-[2025-08-24 20:48:26] ✅ 测速成功: http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 1.03s
-[2025-08-24 20:48:26] ✅ 测速成功: https://migu.188766.xyz/?migutoken=e34055aa61e0584cd8c1baded0c61c6b&id=gxws&type=dy
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 0.69s
-[2025-08-24 20:48:26] ✅ 测速成功: http://112.27.235.94:8000/hls/41/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:26] ✅ 测速成功: https://migu.188766.xyz/?migutoken=fe62997fd2507bd4fb2869f6c05dbddd&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
-   速度: 5932.62KB/s | 数据量: 5.9KB | 总耗时: 0.26s
-[2025-08-24 20:48:26] ✅ 测速成功: https://migu.188766.xyz/?migutoken=94027642f57b16403be385ca6cbdb033&id=gzws&type=dy
-   速度: 253.91KB/s | 数据量: 0.3KB | 总耗时: 0.72s
-[2025-08-24 20:48:27] ✅ 测速成功: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 1.21s
-[2025-08-24 20:48:27] ✅ 测速成功: http://112.27.235.94:8000/hls/48/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:27] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 2.00s
-[2025-08-24 20:48:27] ✅ 测速成功: http://sh.lnott.top:880/dx56.m3u8
-   速度: 316.41KB/s | 数据量: 0.3KB | 总耗时: 1.57s
-[2025-08-24 20:48:27] ✅ 测速成功: http://112.27.235.94:8000/hls/31/index.m3u8
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/46/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.86s
+[2025-08-25 10:03:59] ✅ 测速成功: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.96s
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/44/index.m3u8
    速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:27] ✅ 测速成功: https://migu.188766.xyz/?migutoken=e384497faf63c887b257a0f5cedbf845&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
-   速度: 637.70KB/s | 数据量: 0.6KB | 总耗时: 2.20s
-[2025-08-24 20:48:27] ✅ 测速成功: https://migu.188766.xyz/?migutoken=f5c14cd4b645735e7cc2eeb6deaaae33&id=hljws&type=dy
-   速度: 258.79KB/s | 数据量: 0.3KB | 总耗时: 0.66s
-[2025-08-24 20:48:27] ✅ 测速成功: https://migu.188766.xyz/?migutoken=386f95e7b5c29ee58123b845878a1263&id=hunanws&type=dy
-   速度: 262.70KB/s | 数据量: 0.3KB | 总耗时: 0.75s
-[2025-08-24 20:48:27] ✅ 测速成功: https://migu.188766.xyz/?migutoken=2a4b2fb05b05eee44b7593020e008833&id=custom1&type=dy
-   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 0.67s
-[2025-08-24 20:48:28] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.78s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=4d391669ebfa9df41b664aebf723cbc3&id=jlws&type=dy
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 0.67s
-[2025-08-24 20:48:28] ✅ 测速成功: http://112.27.235.94:8000/hls/32/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=88ac2460f71edb62156b0ff81aa72113&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:28] ✅ 测速成功: http://112.27.235.94:8000/hls/44/index.m3u8
+[2025-08-25 10:03:59] ✅ 测速成功: http://112.27.235.94:8000/hls/49/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:03:59] ✅ 测速成功: http://8.138.7.223/tv/lotustv.m3u8
+   速度: 132.81KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/32/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/47/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.35s
+[2025-08-25 10:04:00] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.83s
+[2025-08-25 10:04:00] ✅ 测速成功: https://fenghuang.tv12.xyz/187.m3u8
+   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 0.61s
+[2025-08-25 10:04:00] ✅ 测速成功: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+   速度: 4.27KB/s | 数据量: 0.6KB | 总耗时: 0.42s
+[2025-08-25 10:04:00] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.81s
+[2025-08-25 10:04:00] ✅ 测速成功: http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
+   速度: 1.01KB/s | 数据量: 0.1KB | 总耗时: 0.41s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/35/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:04:00] ✅ 测速成功: http://1.94.31.214/php/hntv.php?id=hnws
+   速度: 335.94KB/s | 数据量: 0.3KB | 总耗时: 1.00s
+[2025-08-25 10:04:00] ✅ 测速成功: https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+   速度: 135.74KB/s | 数据量: 0.1KB | 总耗时: 0.63s
+[2025-08-25 10:04:00] ✅ 测速成功: https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+   速度: 574.22KB/s | 数据量: 0.6KB | 总耗时: 0.65s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/45/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.32s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/43/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.31s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/33/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:04:00] ✅ 测速成功: http://112.27.235.94:8000/hls/42/index.m3u8
    速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=e08f4bd8d4ea9943d1e69eed6ff031dd&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-   速度: 637.70KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=c44b72b8b0a2091de12530a7e477d3dc&id=lnws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=81c1f17ba8c0c4947ec0132f0a9f7a93&id=neimenggu&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.12s
-[2025-08-24 20:48:28] ✅ 测速成功: http://8.138.7.223/tv/lotustv.m3u8
-   速度: 132.81KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=a97817df7c16669cab2692a081a0bbba&id=linxws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:28] ✅ 测速成功: https://migu.188766.xyz/?migutoken=525a82adc52217d696fc6cb6a486bd02&id=qhws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:28] ✅ 测速成功: http://112.27.235.94:8000/hls/49/index.m3u8
-   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.35s
-[2025-08-24 20:48:28] ✅ 测速成功: http://1.94.31.214/php/hntv.php?id=hnws
-   速度: 336.91KB/s | 数据量: 0.3KB | 总耗时: 1.82s
-[2025-08-24 20:48:29] ✅ 测速成功: https://fenghuang.tv12.xyz/187.m3u8
-   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 0.80s
-[2025-08-24 20:48:29] ✅ 测速成功: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-   速度: 3.70KB/s | 数据量: 0.6KB | 总耗时: 0.49s
-[2025-08-24 20:48:29] ✅ 测速成功: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-   速度: 3.71KB/s | 数据量: 0.6KB | 总耗时: 0.49s
-[2025-08-24 20:48:29] ✅ 测速成功: https://migu.188766.xyz/?migutoken=6e22aea5d222c5174ef9f4e5d2e4e165&id=scws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:29] ✅ 测速成功: http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
-   速度: 0.83KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2025-08-24 20:48:29] ✅ 测速成功: https://migu.188766.xyz/?migutoken=eb280a38303487f7d7ebb664fa5a3193&id=sdws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.11s
-[2025-08-24 20:48:29] ❌ 测速失败: http://zzssw01.55555.io:9901/tsfile/live/0120_1.m3u8
-   错误: HTTPConnectionPool(host='zzssw01.55555.io', port=9901): Max retries exceeded with url: /tsfile/live/0120_1.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f26696b6690>, 'Connection to zzssw01.55555.io timed out. (connect timeout=3.05)')) | 域名: zzssw01.55555.io
-[2025-08-24 20:48:29] ✅ 测速成功: https://migu.188766.xyz/?migutoken=e07338b353ed3fccf978e65460e7caad&id=sxws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.09s
-[2025-08-24 20:48:29] ✅ 测速成功: http://112.27.235.94:8000/hls/45/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:29] ✅ 测速成功: https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-   速度: 586.91KB/s | 数据量: 0.6KB | 总耗时: 0.81s
-[2025-08-24 20:48:29] ✅ 测速成功: https://migu.188766.xyz/?migutoken=d27c9a966fc163c726cd1dc486b9a9d7&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.08s
-[2025-08-24 20:48:30] ✅ 测速成功: https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-   速度: 134.77KB/s | 数据量: 0.1KB | 总耗时: 0.77s
-[2025-08-24 20:48:30] ✅ 测速成功: https://migu.188766.xyz/?migutoken=8dac362e88f9f6eadb590008b4695de7&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-   速度: 637.70KB/s | 数据量: 0.6KB | 总耗时: 2.08s
-[2025-08-24 20:48:30] ✅ 测速成功: http://112.27.235.94:8000/hls/43/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2025-08-24 20:48:30] ✅ 测速成功: https://migu.188766.xyz/?migutoken=6ab83ae4b94472fdca9e8dfe31403dd8&id=tjws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.12s
-[2025-08-24 20:48:30] ✅ 测速成功: https://migu.188766.xyz/?migutoken=b49b19f011eabe4d1f08e4192f035448&id=CCTV7&pp=1
-   速度: 362.30KB/s | 数据量: 0.4KB | 总耗时: 7.94s
-[2025-08-24 20:48:30] ✅ 测速成功: https://migu.188766.xyz/?migutoken=fb03a21bede3eb8e11ffb10c699d8f63&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.11s
-[2025-08-24 20:48:30] ✅ 测速成功: http://112.27.235.94:8000/hls/42/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:30] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2025-08-24 20:48:30] ✅ 测速成功: https://migu.188766.xyz/?migutoken=fb663c17715df550b830e8546b3712ac&id=xjws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.08s
-[2025-08-24 20:48:30] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s
-[2025-08-24 20:48:30] ✅ 测速成功: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-   速度: 325.20KB/s | 数据量: 0.3KB | 总耗时: 0.57s
-[2025-08-24 20:48:31] ✅ 测速成功: http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-   速度: 372.07KB/s | 数据量: 0.4KB | 总耗时: 1.74s
-[2025-08-24 20:48:31] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.76s
-[2025-08-24 20:48:31] ✅ 测速成功: https://migu.188766.xyz/?migutoken=e8a180df8ee439a6b38b8aeb133ae439&id=ynws&type=dy
-   速度: 5575.20KB/s | 数据量: 5.6KB | 总耗时: 0.08s
-[2025-08-24 20:48:31] ✅ 测速成功: http://112.27.235.94:8000/hls/40/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:31] ✅ 测速成功: http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-   速度: 0.43KB/s | 数据量: 0.1KB | 总耗时: 1.35s
-[2025-08-24 20:48:31] ✅ 测速成功: http://112.27.235.94:8000/hls/29/index.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2025-08-24 20:48:32] ✅ 测速成功: https://yvxymm.tv12.xyz/175.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 1.86s
-[2025-08-24 20:48:32] ✅ 测速成功: http://8.138.7.223/tv/zjws.m3u8
-   速度: 133.79KB/s | 数据量: 0.1KB | 总耗时: 0.42s
-[2025-08-24 20:48:32] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.21s
-[2025-08-24 20:48:32] ✅ 测速成功: https://fenghuang.tv12.xyz/173.m3u8
-   速度: 545.90KB/s | 数据量: 0.5KB | 总耗时: 1.69s
-[2025-08-24 20:48:33] ✅ 测速成功: http://live.nctv.top/huya.php?id=11602077
-   速度: 424.40KB/s | 数据量: 3072.0KB | 总耗时: 9.85s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9403690
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 2.06s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=122402
-   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 1.33s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7356023
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.05s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9067836
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 2.44s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9817716
-   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 1.83s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9817729
-   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 2.31s
-[2025-08-24 20:48:34] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=2793084
-   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 0.68s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=74374
-   速度: 445.31KB/s | 数据量: 0.4KB | 总耗时: 0.91s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=747764
-   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.94s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=11922242
-   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 0.98s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3870925
-   速度: 918.95KB/s | 数据量: 0.9KB | 总耗时: 1.21s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=11824307
-   速度: 910.16KB/s | 数据量: 0.9KB | 总耗时: 1.43s
-[2025-08-24 20:48:35] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9285904
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.81s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=508118
-   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.88s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=85894
-   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.85s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4246519
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.13s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=17732
-   速度: 883.79KB/s | 数据量: 0.9KB | 总耗时: 1.59s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4373285
-   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 1.61s
-[2025-08-24 20:48:36] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=1226741
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.18s
-[2025-08-24 20:48:37] ✅ 测速成功: http://218.202.220.2:5000/nn_live.ts?id=STARTV
-   速度: 684.19KB/s | 数据量: 4096.0KB | 总耗时: 6.44s
-[2025-08-24 20:48:37] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9661369
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.41s
-[2025-08-24 20:48:37] ✅ 测速成功: http://zqh2333.top:2222/rtp/239.93.24.80:5140
-   速度: 119.78KB/s | 数据量: 1024.0KB | 总耗时: 10.13s
-[2025-08-24 20:48:37] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=6863367
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.91s
-[2025-08-24 20:48:37] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=20415
-   速度: 445.31KB/s | 数据量: 0.4KB | 总耗时: 0.79s
-[2025-08-24 20:48:37] ✅ 测速成功: http://cdn.jdshipin.com:8880/huya.php?id=21059594
-   速度: 996.09KB/s | 数据量: 1.0KB | 总耗时: 1.23s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3928
-   速度: 441.41KB/s | 数据量: 0.4KB | 总耗时: 0.98s
-[2025-08-24 20:48:38] ✅ 测速成功: http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-   速度: 327.76KB/s | 数据量: 2048.0KB | 总耗时: 7.40s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3637778
-   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 1.48s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7919720
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.95s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=431460
-   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.91s
-[2025-08-24 20:48:38] ✅ 测速成功: https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-   速度: 1354.49KB/s | 数据量: 1.4KB | 总耗时: 0.17s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4373285
-   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 0.97s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3439096
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.03s
-[2025-08-24 20:48:38] ✅ 测速成功: https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
-   速度: 1354.49KB/s | 数据量: 1.4KB | 总耗时: 0.20s
-[2025-08-24 20:48:38] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=10297898
-   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 0.82s
-[2025-08-24 20:48:39] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=299854
-   速度: 916.02KB/s | 数据量: 0.9KB | 总耗时: 1.30s
-[2025-08-24 20:48:39] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4290711
+[2025-08-25 10:04:01] ✅ 测速成功: http://sh.lnott.top:880/dx54.m3u8
+   速度: 316.41KB/s | 数据量: 0.3KB | 总耗时: 1.20s
+[2025-08-25 10:04:01] ✅ 测速成功: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+   速度: 325.20KB/s | 数据量: 0.3KB | 总耗时: 0.53s
+[2025-08-25 10:04:01] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.83s
+[2025-08-25 10:04:01] ✅ 测速成功: http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 1.41s
+[2025-08-25 10:04:01] ✅ 测速成功: http://112.27.235.94:8000/hls/34/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 1.34s
+[2025-08-25 10:04:01] ✅ 测速成功: http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+   速度: 0.54KB/s | 数据量: 0.4KB | 总耗时: 1.51s
+[2025-08-25 10:04:02] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.83s
+[2025-08-25 10:04:02] ✅ 测速成功: http://112.27.235.94:8000/hls/29/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.30s
+[2025-08-25 10:04:02] ✅ 测速成功: http://112.27.235.94:8000/hls/40/index.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.84s
+[2025-08-25 10:04:02] ✅ 测速成功: http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+   速度: 0.48KB/s | 数据量: 0.1KB | 总耗时: 1.54s
+[2025-08-25 10:04:02] ✅ 测速成功: http://8.138.7.223/tv/zjws.m3u8
+   速度: 133.79KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2025-08-25 10:04:02] ✅ 测速成功: https://yvxymm.tv12.xyz/175.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 2.05s
+[2025-08-25 10:04:02] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 1.93s
+[2025-08-25 10:04:03] ✅ 测速成功: https://fenghuang.tv12.xyz/173.m3u8
+   速度: 549.80KB/s | 数据量: 0.5KB | 总耗时: 1.45s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7356023
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.38s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=11922242
+   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 1.07s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=122402
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 1.46s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9403690
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 1.74s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9067836
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 2.13s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9817716
+   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 2.15s
+[2025-08-25 10:04:04] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9817729
+   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 2.36s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=2793084
+   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 0.87s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=6091425
+   速度: 915.04KB/s | 数据量: 0.9KB | 总耗时: 1.24s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=17732
+   速度: 439.45KB/s | 数据量: 0.4KB | 总耗时: 0.70s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=74374
+   速度: 445.31KB/s | 数据量: 0.4KB | 总耗时: 1.29s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9285904
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.90s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=11824307
+   速度: 910.16KB/s | 数据量: 0.9KB | 总耗时: 1.26s
+[2025-08-25 10:04:05] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3870925
+   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 1.44s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=508118
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.75s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4373285
+   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 1.14s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4246519
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.79s
+[2025-08-25 10:04:06] ✅ 测速成功: http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.78s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=9661369
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.92s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=747764
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.87s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3637778
+   速度: 907.23KB/s | 数据量: 0.9KB | 总耗时: 0.95s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=20415
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.30s
+[2025-08-25 10:04:06] ✅ 测速成功: http://218.202.220.2:5000/nn_live.ts?id=STARTV
+   速度: 763.68KB/s | 数据量: 4096.0KB | 总耗时: 5.77s
+[2025-08-25 10:04:06] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=5522351
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.69s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=6863367
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.82s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=85894
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.76s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3928
+   速度: 441.41KB/s | 数据量: 0.4KB | 总耗时: 0.81s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4549169
    速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.80s
-[2025-08-24 20:48:39] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7623292
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.98s
-[2025-08-24 20:48:39] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=5261342
-   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.94s
-[2025-08-24 20:48:46] ✅ 测速成功: http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-   速度: 253.26KB/s | 数据量: 2048.0KB | 总耗时: 9.84s
-[2025-08-24 20:48:52] ✅ 测速成功: http://zqh2333.top:2222/rtp/239.93.24.247:5140?key=txiptv
-   速度: 46.07KB/s | 数据量: 1024.0KB | 总耗时: 23.73s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7919720
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.82s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=1377142
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.71s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=431460
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 0.79s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=3439096
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.68s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4373285
+   速度: 913.09KB/s | 数据量: 0.9KB | 总耗时: 0.69s
+[2025-08-25 10:04:07] ✅ 测速成功: https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+   速度: 1354.49KB/s | 数据量: 1.4KB | 总耗时: 0.03s
+[2025-08-25 10:04:07] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=299854
+   速度: 914.06KB/s | 数据量: 0.9KB | 总耗时: 0.98s
+[2025-08-25 10:04:08] ✅ 测速成功: https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+   速度: 1354.49KB/s | 数据量: 1.4KB | 总耗时: 0.34s
+[2025-08-25 10:04:08] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=7623292
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.68s
+[2025-08-25 10:04:08] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=10297898
+   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 0.79s
+[2025-08-25 10:04:08] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=5261342
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.79s
+[2025-08-25 10:04:08] ✅ 测速成功: http://zzy789.xyz/douyu1.php?id=4290711
+   速度: 447.27KB/s | 数据量: 0.4KB | 总耗时: 0.80s
+[2025-08-25 10:04:08] ✅ 测速成功: http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
+   速度: 329.83KB/s | 数据量: 2048.0KB | 总耗时: 6.97s
+[2025-08-25 10:04:08] ✅ 测速成功: http://live.nctv.top/huya.php?id=11602077
+   速度: 908.74KB/s | 数据量: 5120.0KB | 总耗时: 10.27s
