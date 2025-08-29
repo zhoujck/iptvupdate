@@ -1,17 +1,18 @@
 央视频道,#genre#
-CCTV1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://58.19.252.68:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://58.19.252.68:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://110.181.235.27:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.238.30:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://58.19.252.68:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://58.19.252.68:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://58.19.252.68:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://58.19.252.68:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.237.202:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://58.19.252.68:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://58.19.252.68:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://58.19.252.68:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://58.19.252.68:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://58.19.252.68:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://58.19.252.68:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
@@ -21,7 +22,7 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://58.19.252.68:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://58.19.252.68:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://58.19.252.68:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0#http://lxajh.top/tv/hn.php?id=hnws#http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://58.19.252.68:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0#http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
 江西卫视,http://58.19.252.68:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://58.19.252.68:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://58.19.252.68:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -62,6 +63,8 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 求索生活,http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
 ☘️轮播台,#genre#
 特辑电影,http://zzy789.xyz/douyu1.php?id=3637778
+凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
+金庸武侠,http://zzy789.xyz/douyu1.php?id=9285904
 ☘️上海市,#genre#
 上海都市,http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
 五星体育,http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
@@ -121,7 +124,6 @@ CHC电影,http://58.19.252.68:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
-Poison丶冰冰,http://zzy789.xyz/douyu1.php?id=74374
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -129,20 +131,23 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-久了旧知,http://zzy789.xyz/douyu1.php?id=310926
 健康养生,http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
 傲娇的超级赛亚人,http://zzy789.xyz/douyu1.php?id=4373285
 全球大片,http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
+冰冰影厅✔原,http://zzy789.xyz/douyu1.php?id=74374
+刀刀影院✔原,http://zzy789.xyz/douyu1.php?id=747764
+动漫超燃,http://zzy789.xyz/douyu1.php?id=1174353
 华语影视✔原,http://zzy789.xyz/douyu1.php?id=3928
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e30f880cc51ac1ae83dd0005bab86206&wsTime=1756393217
-女神金,http://zzy789.xyz/douyu1.php?id=747764
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=69d0d410f772f57213462819341d7847&wsTime=1756443613
 宋小宝经典小品,http://zzy789.xyz/douyu1.php?id=9817729
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
+斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
+斗鱼电影HD7,http://zzy789.xyz/douyu1.php?id=20415
 斗鱼电视剧1,http://zzy789.xyz/douyu1.php?id=299854
 斗鱼电视剧12,http://zzy789.xyz/douyu1.php?id=4373285
 斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
@@ -156,9 +161,9 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 星爷房✔原,http://zzy789.xyz/douyu1.php?id=122402
 林正英,http://zzy789.xyz/douyu1.php?id=7356023
 橙記港剧✔原,http://zzy789.xyz/douyu1.php?id=4549169
+欢乐小品,http://zzy789.xyz/douyu1.php?id=9403690
 欢笑剧场4K,http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
-欧美房✔原,http://zzy789.xyz/douyu1.php?id=20415
 求索纪录,http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
 游戏风云,http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
 热门剧场,http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
@@ -174,16 +179,13 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 电竞天堂,http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
 百变课堂,http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
 看天下精选,http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
-精彩短剧看不停,http://zzy789.xyz/douyu1.php?id=11824307
 经典,http://zzy789.xyz/douyu1.php?id=6091425
+经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 网神影厅,http://zzy789.xyz/douyu1.php?id=508118
 茶频道,http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
 谍战剧场,http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
-贝爷MAX厅,http://zzy789.xyz/douyu1.php?id=4332
-贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332
 贝爷求生影视2,http://zzy789.xyz/douyu1.php?id=9661369
 赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716
-阿七点歌台,http://zzy789.xyz/douyu1.php?id=3186217
 陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
 陪你一起看剧,http://zzy789.xyz/douyu1.php?id=11922242
 青春动漫,http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
