@@ -4,12 +4,11 @@ CCTV2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&aut
 CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://58.19.252.68:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://110.181.235.27:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.238.30:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://58.19.252.68:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://58.19.252.68:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://58.19.252.68:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://58.19.252.68:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.235.27:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.237.202:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://58.19.252.68:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.19.252.68:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://58.19.252.68:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://110.181.232.172:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -116,7 +115,6 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 BesTV直播1,http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
 BesTV直播2,http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CCTV-5+体育,http://58.19.252.68:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
@@ -127,7 +125,6 @@ MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -141,7 +138,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=69d0d410f772f57213462819341d7847&wsTime=1756443613
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=69e13a9840fcac8bd9c714c5229b83d2&wsTime=1756479621
 宋小宝经典小品,http://zzy789.xyz/douyu1.php?id=9817729
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
