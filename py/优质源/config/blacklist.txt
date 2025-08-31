@@ -1186,3 +1186,4 @@ cdn.jdshipin.com
 110.181.236.30
 218.17.33.178
 110.181.238.190
+global.cgtn.cicc.media.caton.cloud
