@@ -2,7 +2,7 @@
 CCTV1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://58.19.252.68:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://58.19.252.68:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8#https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV4,http://58.19.252.68:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 CCTV5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
 CCTV6,http://58.19.252.68:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV7,http://58.19.252.68:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://8.138.7.223/tv/cctv7.m3u8
@@ -24,15 +24,15 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8#http://112.27.235.94:8000/hls/32/index.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
-重庆卫视,http://101.66.195.204:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0#http://112.27.235.94:8000/hls/36/index.m3u8
+重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8#http://101.66.195.204:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-东南卫视,http://101.66.195.204:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0#http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/38/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/38/index.m3u8#http://101.66.195.204:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://58.19.252.68:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/33/index.m3u8
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-广西卫视,http://101.66.199.113:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.198:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#http://101.66.199.113:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.198:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://58.19.252.68:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/46/index.m3u8
 河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://58.19.252.68:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0#http://lxajh.top/tv/hn.php?id=hnws#http://1.94.31.214/php/hntv.php?id=hnws#http://112.27.235.94:8000/hls/37/index.m3u8
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://58.19.252.68:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0#http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws#http://112.27.235.94:8000/hls/37/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
 江西卫视,http://58.19.252.68:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0#http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8#http://112.27.235.94:8000/hls/44/index.m3u8
@@ -43,7 +43,7 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山西卫视,http://110.80.17.38:9999/tsfile/live/0118_1.m3u8#http://112.27.235.94:8000/hls/45/index.m3u8
 海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-云南卫视,http://101.66.195.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.198:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://112.27.235.94:8000/hls/40/index.m3u8
+云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8#http://101.66.195.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.198:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://101.66.199.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 兵团卫视,http://8.138.7.223/tv/btws.m3u8
@@ -98,7 +98,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 上海都市剧场,http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
 哈哈炫动,http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 ☘️福建省,#genre#
-厦门卫视,http://fxgm.fxjf.work:19901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0#http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060#http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+厦门卫视,http://fxgm.fxjf.work:19901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0#http://stream.jinjiang.tv/1/sd/live.m3u8?zfud#http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 ☘️湖南省,#genre#
 金鹰纪实,http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
 ☘️江苏省,#genre#
@@ -169,7 +169,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e83115c1732d43c80e7f1c1f78bc773e&wsTime=1756616418
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a0533c2a920eaaf25b0e1687dc203d4d&wsTime=1756652423
 女神金,http://zzy789.xyz/douyu1.php?id=747764
 宋小宝经典小品,http://zzy789.xyz/douyu1.php?id=9817729
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
