@@ -1192,3 +1192,5 @@ global.cgtn.cicc.media.caton.cloud
 101.66.199.113
 101.66.199.204
 218.84.12.186
+yvxymm.tv12.xyz
+106.52.196.79
