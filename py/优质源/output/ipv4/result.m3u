@@ -120,9 +120,9 @@ https://www.yangshipin.cn/tv/home?pid=600002521
 #EXTINF:-1 tvg-name="江苏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://live.jstv.com/?tag=江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 https://www.yangshipin.cn/tv/home?pid=600002532
 #EXTINF:-1 tvg-name="安徽卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -152,13 +152,13 @@ https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIy
 #EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://www.yangshipin.cn/tv/home?pid=600002485
 #EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://dmggg.tyzb.fun:26355/migu/608831231.m3u8?migutoken=1747c9610a2c1b98d3a6169b77a6d59021d781b15c6f9e1e8c17f39f41e15af2d375c37a4277841009cd5585f3a9278d0446cdbfa6eb838972cc87c96e8cd1585c205f512fff61ea8b5363e9b8
-#EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://www.gdtv.cn/tvChannelDetail/43
 #EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://112.99.193.34:9901/tsfile/live/1043_1.m3u8?
 #EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://dmggg.tyzb.fun:26355/migu/608831231.m3u8?migutoken=1747c9610a2c1b98d3a6169b77a6d59021d781b15c6f9e1e8c17f39f41e15af2d375c37a4277841009cd5585f3a9278d0446cdbfa6eb838972cc87c96e8cd1585c205f512fff61ea8b5363e9b8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://www.yangshipin.cn/tv/home?pid=600002509
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -262,17 +262,17 @@ http://dmggg.tyzb.fun:26355/migu/956923145.m3u8?migutoken=e91cee20fa32f0a4a32a70
 #EXTINF:-1 tvg-name="兵团卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://8.138.7.223/tv/btws.m3u8
 #EXTINF:-1 tvg-name="农林卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
-http://sh.lnott.top:880/dx60.m3u8
-#EXTINF:-1 tvg-name="农林卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
 http://dmggg.tyzb.fun:26355/migu/956904896.m3u8?migutoken=1180718cdbea7e6a126138558758e3c655f8d3af29fdbd9c31426157bec7b406cba0f64af16e0510cb52d7f270ea7a230426ceeea4473d97a54213bae5cf0e5e8744e9815e3650aec8f3fdffa1
+#EXTINF:-1 tvg-name="农林卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
+http://sh.lnott.top:880/dx60.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://dmggg.tyzb.fun:26355/migu/952383261.m3u8?migutoken=a0cdd7dad8de519129e8b29a61a119f7f6e6b6991a8506d3e2d42859c1f37c06a33e9752a12dcf313e773dada823e7af479cc6b088520f9b344112b13e436832a58f5a6c9609dc854e31a69c25
 #EXTINF:-1 tvg-name="CHC动作电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://dmggg.tyzb.fun:26355/migu/644368714.m3u8?migutoken=806117e66a8750c2936c00e84391e5f232ba9e0abbeaefc76eb2b04e3b464b9ea937d49e106c41f72d498e727227d9a80a8a9e7137018dd037b66abc395e4bf0be7479ccd3569a5b4df694c3e8
 #EXTINF:-1 tvg-name="CHC动作电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://live.nctv.top/huya.php?id=11602077
-#EXTINF:-1 tvg-name="CHC动作电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://58.19.252.68:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://live.nctv.top/huya.php?id=11602077
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://dmggg.tyzb.fun:26355/migu/644368373.m3u8?migutoken=ca35d398d91ccbf42d0019166c2c76850dcce8c218de2b662493bc7a6f0fabccf3a2fd96da011468167f4b040c5a14dcc19dd069421fde95e9148dd17a6d63e649a6ec76bdd644cabcbf2633b9
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
@@ -596,7 +596,7 @@ http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" group-title="其他",咪咕视频
 http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ff3b58ea1a7d6e76274f1a77a9efa8a2&wsTime=1757134809
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d217e859b324b4cceb2e3c4f9bae753f&wsTime=1757145610
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://dmggg.tyzb.fun:26355/migu/608917627.m3u8?migutoken=96095e05a6191b41df005383d8f86f49f59a88a2d21e550c836313a5834abcfc6eec2c4c56240457ee3d6e583f46b443f796f3de4db4f012a033ac1dc85cdb12648dfd67068e7ae1eebfc620e6
 #EXTINF:-1 tvg-name="女神金" group-title="其他",女神金
@@ -632,25 +632,25 @@ http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="星爷房✔原" group-title="其他",星爷房✔原
 http://zzy789.xyz/douyu1.php?id=122402
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9b3bb56893f8
+https://mgtv.ottiptv.cc/migu/609154345.m3u8?migutoken=373f03c7d84aa1d9b263095aa17b04b4105b16803f2c500fa423f2558f4544cf8c995484784a55f967ba1a451c7a6761231e19e5421ff06cc94d98a3feb722195dd6daec3999df6fdd89c08da2
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/956923145.m3u8?migutoken=20afbff144326ae6c808da503404a9d949ae3f9863ed6d829dac727c2a1e0ece33519e50f656335bbc2ed6584655011007034fc80638133c04cf1eb01887ef14ceb5819667f0cbc4f84de944db
+https://mgtv.ottiptv.cc/migu/609006476.m3u8?migutoken=8fa140519a0dbd62ed0f384dabe9e2192e940f5209ac1be2e228dc62741fdc59ecac98a000f07083d2897d0df8baf57db2c2cf9bac33f0d42577d8f5170a769fc23740153bb92566a0c4568068
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=dfed5da7e29e8b57e2aed3975fb3c0bfe41b53caed5efc9396edfc75fec33a9eeb357652ef34a96b8623b38e12b71bee632bf6f127e9c17861e5ca6e52898d0d770965f4de553ee23aeea5ce2c
+https://mgtv.ottiptv.cc/migu/609006450.m3u8?migutoken=e1cb89c371b160796b11277403c0101f5b79265650aa9f80442353d91e38a314b4ed9dd259284c9f7722a7de2e03e502641c873b63f92431fcd66f776074aaf9899e74e02c24384b95bf251083
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=285efd1cbde413f7a9cb74a6c72cc9a05f06c1aa1fdc63a4a86480630d86dc8cde0a03b5e64a10c3f0581160e2009cf37815170eabe9397300ec94d13e4c25493e524d46e0080281f929363918
+https://mgtv.ottiptv.cc/migu/609006446.m3u8?migutoken=3a30c25c6f15f6c9a3c4a6e1bf16fe41772a9e9562de6258bec0a1264a65a66368c305469afb74097d1439b6adafe357d0d004219a1a0e0aef9ee8667db4605dd866534416f039c796107b8597
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/626064714.m3u8?migutoken=02cafbc9d94c9e5e26c383c50287313c55f7e68abea08e811428e9b13cd8e46f93919d1a0859b1c76d8e4e78e1f7b8a6f89d71daf38a8275ac7633b59bcdb7cbf189e3152afb4fa80fadf4b134
+https://mgtv.ottiptv.cc/migu/956904896.m3u8?migutoken=2bc95532438a85fce4b33d57ab421bf7a1cbfde140b9a70b6b8d0e39311324ea474cf414b4a34205c638f7091c74d2d9af139e53d4ed9512396190b6e851cd6a42fef923710e7a6d5b03af44ad
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=b851166bbe8f714c265834f0f51ef63f8b4f0934fcc854981ce124c2bd934bc64d035b76abd2c8f9afe4ea7792e3e6751b9a8b31846bfebd57e26d870ee75d1cb3df352d20adbfa1e7c7e7daa2
+https://mgtv.ottiptv.cc/migu/625133682.m3u8?migutoken=967335a2590af4b7e56968887bfe93f96a90e65d37a0b06599010c10b3205ef0195ed1812c3f3a162792a9d3881cc8ea2447cbe87d4ff06553313dc338820f24a87d4929eb40a16b8d3b9b66a3
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=4651e641585356dfef7f9682a415f4e85a79d38009634552023cf582d912932afc0c56cff77070938e0385de5394675f9a1d4220f6e7d48a88ca5fb2fe6371c1bc4597385fdd397d399ae8ef55
+https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c3057e88de7982b7db97b099ca8e845404f509eecfda842afeebb6e0f56b395a8276019f7ed722017147b1a70e9dc959dcfed100facacec159a601a865605665771c5c59de2823df6b56
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/626064674.m3u8?migutoken=83aa21f5f0e2b8c34ebe4c86e3077afed750a168bfe0b358576f9bdf737d7f32c801ca38b9d4620702ec9a7f16d8aa01dceca57acafb500b34cf3d0a282edbe47ab3e0cdb90162c9ed634bd8a6
+https://mgtv.ottiptv.cc/migu/952383261.m3u8?migutoken=a34e4b2c0f26498be1adbd8345347dc23f0640a39cb845752ecb9a7ca2fa72d65c884b9cb8200a54e2d5f95d274b759c0c203d646231f964a63e290fadafd012c3bbf32109e4e17e95f6780547
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/626064697.m3u8?migutoken=6508bc5fae9f621ed6ec72d39eb7f60ab52c4b412a5ee7f5b612640ecccbde1f9584f0a97aebc090cb58f73e9e079ced87b059526a6614b5a9ad5a23ff4863d36adcc1ed699583e058fac3330e
+https://mgtv.ottiptv.cc/migu/619495952.m3u8?migutoken=b61410ebe02de52d91741068f7adad060c54cbae6260c3ea00290560ce7303a378bb5a7a09d3091bafbeb3960a61e2fd6568791a4d03db9a958295931ba25b9e7e02c548de54ee8dbeb9e8076a
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
+https://mgtv.ottiptv.cc/migu/713591450.m3u8?migutoken=fe299de91de19539f2aad9b24bfbbc6a58dbf2936eea89b0c5e06f2e1e41c5411d67787be60428f1bc0fc3ae86514c20c6b5f891bae787dd644c41fdc07ef0707f9990357c4113047b0a6651a0
 #EXTINF:-1 tvg-name="林正英" group-title="其他",林正英
 http://zzy789.xyz/douyu1.php?id=7356023
 #EXTINF:-1 tvg-name="欢乐小品" group-title="其他",欢乐小品
@@ -718,9 +718,9 @@ https://www.yangshipin.cn/tv/home?pid=600190400
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://dmggg.tyzb.fun:26355/migu/738910838.m3u8?migutoken=0e2dfa2f9df352907ed97b8f7689b398455aa7e3d8e06bed1b81f137e3c8a169b4cbcdc80a0a2076f1345e11d441e9e2cab6603ccd1e045b7e882d56f44cfa03221dc79c19599b6e2296f62e0a
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
-http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
+#EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
+http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://sh.lnott.top:880/dx51.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
