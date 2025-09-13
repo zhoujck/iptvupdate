@@ -4,6 +4,8 @@ CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c1
 中国天气,http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
 CETV1,http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
+卫视频道,#genre#
+广东卫视,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 数字频道,#genre#
 华数4K,http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
 精彩影视,http://itv.uat.news/TVOD/6000000006000320630/wasusyt/index.m3u8
@@ -38,7 +40,8 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 求索科学,http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8
 求索生活,http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
 ☘️轮播台,#genre#
-金庸武侠,http://zzy789.xyz/douyu1.php?id=9285904
+特辑电影,http://zzy789.xyz/douyu1.php?id=3637778
+凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
 ☘️上海市,#genre#
 上海都市,http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
 五星体育,http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
@@ -54,6 +57,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 ☘️湖南省,#genre#
 金鹰纪实,http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
 ☘️江苏省,#genre#
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8#https://live-auth.51kandianshi.com/szgd/csztv3.m3u8#https://live-auth.51kandianshi.com/szgd/csztv3.m3u8#https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8#https://live-auth.51kandianshi.com/szgd/csztv1.m3u8#https://live-auth.51kandianshi.com/szgd/csztv1.m3u8#https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8#https://live-auth.51kandianshi.com/szgd/csztv5.m3u8#https://live-auth.51kandianshi.com/szgd/csztv5.m3u8#https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
@@ -77,7 +81,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8#http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://211.72.65.236:8506/.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 其他,#genre#
 4K TRAVEL,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -91,7 +95,6 @@ CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
-Poison丶冰冰,http://zzy789.xyz/douyu1.php?id=74374
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -99,18 +102,20 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 健康养生,http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
+免费分享,https://188766.xyz/qiu
 全球大片,http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
+冰冰影厅✔原,http://zzy789.xyz/douyu1.php?id=74374
 华语影视✔原,http://zzy789.xyz/douyu1.php?id=3928
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
-华语房✔原,http://zzy789.xyz/douyu1.php?id=85894
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=2c41933a1bf1f3b13d80f5e0df099add&wsTime=1757739613
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ef9e391d65ad9c4632231c00836c5f48&wsTime=1757775620
 女神金,http://zzy789.xyz/douyu1.php?id=747764
 宋小宝经典小品,http://zzy789.xyz/douyu1.php?id=9817729
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
-斗鱼电影HD7,http://zzy789.xyz/douyu1.php?id=20415
+斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
+斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
 斗鱼电视剧1,http://zzy789.xyz/douyu1.php?id=299854
 斗鱼电视剧12,http://zzy789.xyz/douyu1.php?id=4373285
 斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
@@ -122,11 +127,14 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
 星爷房✔原,http://zzy789.xyz/douyu1.php?id=122402
+橙記港剧✔原,http://zzy789.xyz/douyu1.php?id=4549169
 欢乐小品,http://zzy789.xyz/douyu1.php?id=9403690
 欢笑剧场4K,http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
+欧美房✔原,http://zzy789.xyz/douyu1.php?id=20415
 求索纪录,http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
 游戏风云,http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
 热门剧场,http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
+热门港剧✔原,http://zzy789.xyz/douyu1.php?id=5522351
 热门综艺,http://itv.uat.news/TVOD/5000000011000288011/bestzb/index.m3u8
 爱体育,http://itv.uat.news/TVOD/6000000006000290630/wasusyt/index.m3u8
 爱动漫,http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8
@@ -134,11 +142,12 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 爱喜剧,http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8
 爱奇谈,http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8
 爱幼教,http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
-特辑影院,http://zzy789.xyz/douyu1.php?id=3637778
 电竞天堂,http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
 百变课堂,http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
 看天下精选,http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
 精彩短剧看不停,http://zzy789.xyz/douyu1.php?id=11824307
+经典,http://zzy789.xyz/douyu1.php?id=6091425
+经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
 经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 网神影厅,http://zzy789.xyz/douyu1.php?id=508118
 茶频道,http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
