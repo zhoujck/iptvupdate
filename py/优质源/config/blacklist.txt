@@ -1207,3 +1207,5 @@ smart.cityq.xyz
 live.nctv.top
 180.165.12.90
 iptv.zkbhj.com
+113.195.7.46
+cc02.tv12.xyz
