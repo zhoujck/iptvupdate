@@ -1231,3 +1231,4 @@ newcntv.qcloudcdn.com
 61.184.46.85
 111.9.163.109
 epg.pw
+cdn8.163189.xyz
