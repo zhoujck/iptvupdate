@@ -1241,3 +1241,5 @@ cssbyd.imwork.net
 124.88.144.73
 171.121.65.54
 test1.live.sdetv.com.cn
+stream.jinjiang.tv
+genglei.8866.org
