@@ -1,11 +1,11 @@
 上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=805c5cc399f8ada65b6eea5e91c7e4f404b09a198adaabe125c903bd1224fb596d62df2814c64c7d265f72653cebbe08ab5354429522fb7fbb1941dac280d5ae09ae376c922cd03b0d8dc6efbcae806f02&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
 法治天地,https://cc06.tv12.xyz/42.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=9a8e4d7cff26129b4104d803dfa2431a2541ac462925a32aa3ad94d299cf1084deaa4b81f941d845efa66d95fc806ae1d0a95567a8f9797f9ea48552b7fd5ea018e54cd30f2f20b73c7fa0bc3a2b2c5def&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=1204c8434072c13198c89c43d1243c89c8b3f94c1aada83d9df13c3b154b39f107c52f62aa40bd6ba94f9c0b234a473ff4cca03cfe58566c6d2865907e98c76c41053b7a473096a734f7ae7f688770a42d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=93082dda92750ba590c9db0f841e68692760d860f36dc0e259004bfa85dca7c258becdbb0374902642ac5d45739b9b0d12bf5dbfc3ca3b3d26a6a302eeefc96d6bb5e9daaf21be9315e089ca1a7ac9875d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
