@@ -106,7 +106,7 @@ BesTV直播1,http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
 BesTV直播2,http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -174,7 +174,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
 喋血双雄,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
 嘻游记,https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e0acf90a15d883f83ab62584dc01cfc4&wsTime=1761710410
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=1f8cf9c823742f759d229b84e602b5ae&wsTime=1761753619
 城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
 墨攻,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
 夜店,https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
@@ -237,7 +237,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 暗战,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
 最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
 最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8#http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8#http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有话好好说,https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
 未来警察,https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
 杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
