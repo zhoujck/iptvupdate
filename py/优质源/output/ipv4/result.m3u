@@ -4,9 +4,9 @@ https://iptv.catvod.com/live.php?id=CCTV1%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2%E8%B4%A2%E7%BB%8F
 #EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
-https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2
-#EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
 https://iptv.catvod.com/live.php?id=CCTV4%E7%BE%8E%E6%B4%B2
+#EXTINF:-1 tvg-name="CCTV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2
 #EXTINF:-1 tvg-name="CCTV5"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV5
 https://iptv.catvod.com/live.php?id=CCTV5%E4%BD%93%E8%82%B2
 #EXTINF:-1 tvg-name="CCTV5+"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -76,9 +76,9 @@ http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://sh.lnott.top:880/dx56.m3u8
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
@@ -207,10 +207,6 @@ http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
 http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" group-title="☘️上海市",上海新闻综合
 http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海滩" group-title="☘️上海市",上海滩
-https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="上海滩" group-title="☘️上海市",上海滩
-https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="上海生活时尚" group-title="☘️上海市",上海生活时尚
 http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="上海都市剧场" group-title="☘️上海市",上海都市剧场
@@ -245,10 +241,6 @@ http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
 http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" group-title="☘️上海市",上海新闻综合
 http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海滩" group-title="☘️上海市",上海滩
-https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="上海滩" group-title="☘️上海市",上海滩
-https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="上海生活时尚" group-title="☘️上海市",上海生活时尚
 http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="上海都市剧场" group-title="☘️上海市",上海都市剧场
@@ -257,22 +249,16 @@ http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
 http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",新疆卫视
 http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-name="新疆天山(定海神针)"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆天山(定海神针).png" group-title="☘️新疆",新疆天山(定海神针)
-http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
 http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 #EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
-http://27.41.245.32:801/hls/205/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
-http://27.41.245.32:801/hls/205/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
+http://27.41.245.32:801/hls/205/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港·澳·台",凤凰中文
+http://27.41.245.32:801/hls/205/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港·澳·台",凤凰资讯
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-#EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港·澳·台",凤凰资讯
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港·澳·台",凤凰资讯
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港·澳·台",凤凰资讯
@@ -291,16 +277,8 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="莲花卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/莲花卫视.png" group-title="☘️港·澳·台",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 tvg-name="环球电视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球电视.png" group-title="☘️港·澳·台",环球电视
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="TVB无线新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="☘️港·澳·台",TVB无线新闻
-https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="TVBS亚洲"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="☘️港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 tvg-name="耀才财经"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/耀才财经.png" group-title="☘️港·澳·台",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="美国之音"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/美国之音.png" group-title="☘️港·澳·台",美国之音
@@ -308,21 +286,11 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-name="半岛新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="☘️港·澳·台",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="环球电视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球电视.png" group-title="☘️港·澳·台",环球电视
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="美亚电影台"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="☘️港·澳·台",美亚电影台
 https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="人间卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="☘️港·澳·台",人间卫视
@@ -331,10 +299,6 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="人间卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/人间卫视.png" group-title="☘️港·澳·台",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲新闻.png" group-title="☘️港·澳·台",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="其他",其他
@@ -345,10 +309,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AXS TV Now" group-title="其他",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="A计划" group-title="其他",A计划
-https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
-#EXTINF:-1 tvg-name="A计划续集" group-title="其他",A计划续集
-https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 #EXTINF:-1 tvg-name="BesTV直播1" group-title="其他",BesTV直播1
 http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="BesTV直播2" group-title="其他",BesTV直播2
@@ -360,17 +320,13 @@ http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CGTN-纪录" group-title="其他",CGTN-纪录
 http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="其他",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" group-title="其他",Fashion TV
@@ -387,302 +343,36 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="Wion News" group-title="其他",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="▶️哈利波特：火盃的考驗" group-title="其他",▶️哈利波特：火盃的考驗
-https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
-#EXTINF:-1 tvg-name="▶️哪吒1魔童降世" group-title="其他",▶️哪吒1魔童降世
-https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
-#EXTINF:-1 tvg-name="▶️我不是药神" group-title="其他",▶️我不是药神
-https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 tvg-name="▶️无间道1" group-title="其他",▶️无间道1
-https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-#EXTINF:-1 tvg-name="▶️无间道2" group-title="其他",▶️无间道2
-https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
-#EXTINF:-1 tvg-name="▶️无间道3：终极无间" group-title="其他",▶️无间道3：终极无间
-https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
-#EXTINF:-1 tvg-name="▶️英雄本色1" group-title="其他",▶️英雄本色1
-https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
-#EXTINF:-1 tvg-name="▶️英雄本色2" group-title="其他",▶️英雄本色2
-https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
-#EXTINF:-1 tvg-name="▶️霸王别姬" group-title="其他",▶️霸王别姬
-https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
-#EXTINF:-1 tvg-name="一出好戏" group-title="其他",一出好戏
-https://vip.ffzy-play.com/20221015/949_ecf3b061/index.m3u8
-#EXTINF:-1 tvg-name="一夜惊喜" group-title="其他",一夜惊喜
-https://vip.ffzy-play6.com/20221019/211_225bbe08/index.m3u8
-#EXTINF:-1 tvg-name="一步之遥" group-title="其他",一步之遥
-https://vip.ffzy-play2.com/20221122/1201_e24fce85/index.m3u8
-#EXTINF:-1 tvg-name="一眉道人" group-title="其他",一眉道人
-https://vip.ffzy-play7.com/20221115/4803_1731be32/index.m3u8
-#EXTINF:-1 tvg-name="七小福" group-title="其他",七小福
-https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
-#EXTINF:-1 tvg-name="三德和尚与舂米六" group-title="其他",三德和尚与舂米六
-https://vip.ffzy-play6.com/20221128/9099_38718b59/index.m3u8
-#EXTINF:-1 tvg-name="上海十三太保" group-title="其他",上海十三太保
-https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
-#EXTINF:-1 tvg-name="与龙共舞" group-title="其他",与龙共舞
-https://vip.ffzy-play6.com/20221207/10859_1b02d27c/index.m3u8
-#EXTINF:-1 tvg-name="东方巨龙" group-title="其他",东方巨龙
-https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
-#EXTINF:-1 tvg-name="东方秃鹰" group-title="其他",东方秃鹰
-https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/index.m3u8
-#EXTINF:-1 tvg-name="两只老虎" group-title="其他",两只老虎
-https://vip.ffzy-play7.com/20221117/5047_beb0a18c/index.m3u8
-#EXTINF:-1 tvg-name="中国最后一个太监" group-title="其他",中国最后一个太监
-https://vip.ffzy-play6.com/20221128/9044_42d732f5/index.m3u8
-#EXTINF:-1 tvg-name="中环英雄" group-title="其他",中环英雄
-https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
-#EXTINF:-1 tvg-name="义不容辞" group-title="其他",义不容辞
-https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
-#EXTINF:-1 tvg-name="义本无言" group-title="其他",义本无言
-https://vip.ffzy-play6.com/20221116/7316_f568756b/index.m3u8
-#EXTINF:-1 tvg-name="义胆红唇" group-title="其他",义胆红唇
-https://vip.ffzy-play6.com/20221116/7315_8765f39c/index.m3u8
-#EXTINF:-1 tvg-name="义胆雄心" group-title="其他",义胆雄心
-https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8
-#EXTINF:-1 tvg-name="五亿探长雷洛传1:雷老虎" group-title="其他",五亿探长雷洛传1:雷老虎
-https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
-#EXTINF:-1 tvg-name="五亿探长雷洛传2:父子情仇" group-title="其他",五亿探长雷洛传2:父子情仇
-https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
-#EXTINF:-1 tvg-name="人吓鬼" group-title="其他",人吓鬼
-https://vip.ffzy-play7.com/20221115/4745_3dce763c/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途之泰囧" group-title="其他",人在囧途之泰囧
-https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途之港囧" group-title="其他",人在囧途之港囧
-https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 tvg-name="人潮汹涌" group-title="其他",人潮汹涌
-https://vip.ffzy-play.com/20221018/1947_3d44a6ed/index.m3u8
-#EXTINF:-1 tvg-name="侠圣" group-title="其他",侠圣
-https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
-#EXTINF:-1 tvg-name="侠盗联盟" group-title="其他",侠盗联盟
-https://vip.ffzy-play7.com/20221104/1442_e5eca889/index.m3u8
-#EXTINF:-1 tvg-name="侠盗高飞" group-title="其他",侠盗高飞
-https://vip.ffzy-play7.com/20221112/3315_eef8cb87/index.m3u8
 #EXTINF:-1 tvg-name="健康养生" group-title="其他",健康养生
 http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="催眠大师" group-title="其他",催眠大师
-https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
 #EXTINF:-1 tvg-name="全球大片" group-title="其他",全球大片
 http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="八星报喜" group-title="其他",八星报喜
-https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
-#EXTINF:-1 tvg-name="决战紫禁之巅" group-title="其他",决战紫禁之巅
-https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
-#EXTINF:-1 tvg-name="刀剑笑" group-title="其他",刀剑笑
-https://vip.ffzy-play7.com/20221112/3808_6690be34/index.m3u8
-#EXTINF:-1 tvg-name="功夫瑜伽" group-title="其他",功夫瑜伽
-https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
-#EXTINF:-1 tvg-name="十二生肖" group-title="其他",十二生肖
-https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
-#EXTINF:-1 tvg-name="十面埋伏" group-title="其他",十面埋伏
-https://vip.ffzy-play7.com/20221117/5218_ad30347f/index.m3u8
-#EXTINF:-1 tvg-name="千机变" group-title="其他",千机变
-https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
-#EXTINF:-1 tvg-name="半生缘" group-title="其他",半生缘
-https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
 #EXTINF:-1 tvg-name="华语影院" group-title="其他",华语影院
 http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="卫斯理之蓝血人" group-title="其他",卫斯理之蓝血人
-https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
-#EXTINF:-1 tvg-name="双龙会" group-title="其他",双龙会
-https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
-#EXTINF:-1 tvg-name="古董局中局" group-title="其他",古董局中局
-https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
-#EXTINF:-1 tvg-name="命运呼叫转移" group-title="其他",命运呼叫转移
-https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
-#EXTINF:-1 tvg-name="咖喱辣椒" group-title="其他",咖喱辣椒
-https://vip.ffzy-play7.com/20221112/3509_1a0443fd/index.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" group-title="其他",咪咕体育
 http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" group-title="其他",咪咕视频
 http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-#EXTINF:-1 tvg-name="咸鱼翻身" group-title="其他",咸鱼翻身
-https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
-#EXTINF:-1 tvg-name="哗！英雄" group-title="其他",哗！英雄
-https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
-#EXTINF:-1 tvg-name="喋血双雄" group-title="其他",喋血双雄
-https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
-#EXTINF:-1 tvg-name="嘻游记" group-title="其他",嘻游记
-https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=c673445d5decce90e2367087c9337e7c&wsTime=1761969609
-#EXTINF:-1 tvg-name="城市猎人" group-title="其他",城市猎人
-https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
-#EXTINF:-1 tvg-name="墨攻" group-title="其他",墨攻
-https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
-#EXTINF:-1 tvg-name="夜店" group-title="其他",夜店
-https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
-#EXTINF:-1 tvg-name="大上海" group-title="其他",大上海
-https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
-#EXTINF:-1 tvg-name="大唐玄奘" group-title="其他",大唐玄奘
-https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3eb89f5524a773760519f7c1ba0d4e11&wsTime=1762012818
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="大腕" group-title="其他",大腕
-https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
-#EXTINF:-1 tvg-name="大话西游之大圣娶亲" group-title="其他",大话西游之大圣娶亲
-http://p.bvvvvvvvvv1f.com/video/dahuaxiyouzhidashengquqin/HD国语/index.m3u8
-#EXTINF:-1 tvg-name="大话西游之月光宝盒" group-title="其他",大话西游之月光宝盒
-http://p.bvvvvvvvvv1f.com/video/dahuaxiyouzhiyueguangbaohe/HD国语/index.m3u8
-#EXTINF:-1 tvg-name="天下无贼" group-title="其他",天下无贼
-https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
-#EXTINF:-1 tvg-name="天与地" group-title="其他",天与地
-https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
-#EXTINF:-1 tvg-name="天地玄门" group-title="其他",天地玄门
-https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
-#EXTINF:-1 tvg-name="天地雄心" group-title="其他",天地雄心
-https://vip.ffzy-play7.com/20221113/4187_a7c41927/index.m3u8
-#EXTINF:-1 tvg-name="天将雄师" group-title="其他",天将雄师
-https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/index.m3u8
-#EXTINF:-1 tvg-name="天生胆小" group-title="其他",天生胆小
-https://vip.ffzy-play6.com/20221129/9417_4ed30e0d/index.m3u8
-#EXTINF:-1 tvg-name="天若有情" group-title="其他",天若有情
-https://vip.ffzy-play6.com/20221112/6132_760d67fd/index.m3u8
-#EXTINF:-1 tvg-name="天若有情3之烽火佳人" group-title="其他",天若有情3之烽火佳人
-https://vip.ffzy-play6.com/20221207/10617_a0d97cd1/index.m3u8
-#EXTINF:-1 tvg-name="失孤" group-title="其他",失孤
-https://vip.ffzy-play1.com/20221018/299_06ee96a1/index.m3u8
-#EXTINF:-1 tvg-name="奇谋妙计五福星" group-title="其他",奇谋妙计五福星
-https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
-#EXTINF:-1 tvg-name="奇迹" group-title="其他",奇迹
-https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
-#EXTINF:-1 tvg-name="妖怪都市" group-title="其他",妖怪都市
-https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
-#EXTINF:-1 tvg-name="孔子" group-title="其他",孔子
-https://vip.ffzy-play6.com/20221027/2108_7c929ef0/index.m3u8
-#EXTINF:-1 tvg-name="孤男寡女" group-title="其他",孤男寡女
-https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
-#EXTINF:-1 tvg-name="学校风云" group-title="其他",学校风云
-https://vip.ffzy-play7.com/20221209/9201_9f4d986a/index.m3u8
 #EXTINF:-1 tvg-name="宝宝动画" group-title="其他",宝宝动画
 http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="密宗威龙" group-title="其他",密宗威龙
-https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
-#EXTINF:-1 tvg-name="富贵兵团" group-title="其他",富贵兵团
-https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
-#EXTINF:-1 tvg-name="富贵列车" group-title="其他",富贵列车
-https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
-#EXTINF:-1 tvg-name="少林木人巷" group-title="其他",少林木人巷
-https://vip.ffzy-play6.com/20221128/9115_ff8a121e/index.m3u8
-#EXTINF:-1 tvg-name="少林英雄" group-title="其他",少林英雄
-https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
-#EXTINF:-1 tvg-name="师兄撞鬼" group-title="其他",师兄撞鬼
-https://vip.ffzy-play6.com/20221207/10610_200b5bd4/index.m3u8
-#EXTINF:-1 tvg-name="师弟出马" group-title="其他",师弟出马
-https://vip.ffzy-play7.com/20221115/4764_aba20ecc/index.m3u8
-#EXTINF:-1 tvg-name="幕后玩家" group-title="其他",幕后玩家
-https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
-#EXTINF:-1 tvg-name="心花路放" group-title="其他",心花路放
-https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
-#EXTINF:-1 tvg-name="快餐车" group-title="其他",快餐车
-https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/index.m3u8
-#EXTINF:-1 tvg-name="急先锋" group-title="其他",急先锋
-https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
 #EXTINF:-1 tvg-name="戏曲精选" group-title="其他",戏曲精选
 http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="我和我的家乡" group-title="其他",我和我的家乡
-https://vip.ffzy-play1.com/20221018/511_7936e28c/index.m3u8
-#EXTINF:-1 tvg-name="我和我的父辈" group-title="其他",我和我的父辈
-https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
-#EXTINF:-1 tvg-name="我和我的祖国" group-title="其他",我和我的祖国
-https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
-#EXTINF:-1 tvg-name="我是谁" group-title="其他",我是谁
-https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
-#EXTINF:-1 tvg-name="战神传说" group-title="其他",战神传说
-https://vip.ffzy-play7.com/20221129/7734_53205031/index.m3u8
-#EXTINF:-1 tvg-name="手机" group-title="其他",手机
-https://vip.ffzy-play6.com/20221019/107_6107b581/index.m3u8
-#EXTINF:-1 tvg-name="拆弹专家1" group-title="其他",拆弹专家1
-https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-#EXTINF:-1 tvg-name="拆弹专家2" group-title="其他",拆弹专家2
-https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-#EXTINF:-1 tvg-name="拳精" group-title="其他",拳精
-https://vip.ffzy-play6.com/20221128/9094_13caae92/index.m3u8
-#EXTINF:-1 tvg-name="攀登者" group-title="其他",攀登者
-https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
-#EXTINF:-1 tvg-name="新上海滩" group-title="其他",新上海滩
-https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
-#EXTINF:-1 tvg-name="新僵尸先生" group-title="其他",新僵尸先生
-https://vip.ffzy-play6.com/20221129/9451_47cd067c/index.m3u8
-#EXTINF:-1 tvg-name="新宿事件" group-title="其他",新宿事件
-https://vip.ffzy-play7.com/20230314/18148_991eeb8a/index.m3u8
-#EXTINF:-1 tvg-name="新警察故事" group-title="其他",新警察故事
-https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
-#EXTINF:-1 tvg-name="方世玉续集" group-title="其他",方世玉续集
-https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
 #EXTINF:-1 tvg-name="旅游卫视" group-title="其他",旅游卫视
 http://123.129.70.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="无人区" group-title="其他",无人区
-https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
-#EXTINF:-1 tvg-name="无双" group-title="其他",无双
-https://vip.ffzy-play6.com/20221108/5250_e3bbb4e4/index.m3u8
-#EXTINF:-1 tvg-name="无线华丽" group-title="其他",无线华丽
-https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 tvg-name="无间道2" group-title="其他",无间道2
-https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
-#EXTINF:-1 tvg-name="时来运转" group-title="其他",时来运转
-https://vip.ffzy-play7.com/20221209/9156_396eac04/index.m3u8
-#EXTINF:-1 tvg-name="旺角卡门" group-title="其他",旺角卡门
-https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
 #EXTINF:-1 tvg-name="星光影院" group-title="其他",星光影院
 http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="春娇与志明" group-title="其他",春娇与志明
-https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
-#EXTINF:-1 tvg-name="暗战" group-title="其他",暗战
-https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
-#EXTINF:-1 tvg-name="最佳损友" group-title="其他",最佳损友
-https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
-#EXTINF:-1 tvg-name="最佳损友闯情关" group-title="其他",最佳损友闯情关
-https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
-#EXTINF:-1 tvg-name="有线新闻" group-title="其他",有线新闻
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-#EXTINF:-1 tvg-name="有线新闻" group-title="其他",有线新闻
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-#EXTINF:-1 tvg-name="有线新闻" group-title="其他",有线新闻
-http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="有线新闻" group-title="其他",有线新闻
-http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="有话好好说" group-title="其他",有话好好说
-https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
-#EXTINF:-1 tvg-name="未来警察" group-title="其他",未来警察
-https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
-#EXTINF:-1 tvg-name="杀手之王" group-title="其他",杀手之王
-https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
-#EXTINF:-1 tvg-name="杀手的童话" group-title="其他",杀手的童话
-https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
-#EXTINF:-1 tvg-name="杂家小子" group-title="其他",杂家小子
-https://vip.ffzy-play6.com/20221128/9261_f18e5614/index.m3u8
-#EXTINF:-1 tvg-name="林世荣" group-title="其他",林世荣
-https://vip.ffzy-play7.com/20221209/9096_70ae66c7/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场4K" group-title="其他",欢笑剧场4K
 http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" group-title="其他",求索纪录
 http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="江湖情" group-title="其他",江湖情
-https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
-#EXTINF:-1 tvg-name="江湖龙虎斗" group-title="其他",江湖龙虎斗
-https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
-#EXTINF:-1 tvg-name="没完没了" group-title="其他",没完没了
-https://vip.ffzy-play6.com/20221129/9376_7f06747a/index.m3u8
 #EXTINF:-1 tvg-name="法·时尚" group-title="其他",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 tvg-name="法·时尚" group-title="其他",法·时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 tvg-name="法内情" group-title="其他",法内情
-https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
-#EXTINF:-1 tvg-name="洪熙官" group-title="其他",洪熙官
-https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
-#EXTINF:-1 tvg-name="消失的女人" group-title="其他",消失的女人
-https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" group-title="其他",游戏风云
 http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="澳门风云1" group-title="其他",澳门风云1
-https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
-#EXTINF:-1 tvg-name="火烧岛" group-title="其他",火烧岛
-https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
-#EXTINF:-1 tvg-name="灵幻先生" group-title="其他",灵幻先生
-https://vip.ffzy-play7.com/20221115/4538_ddf6020e/index.m3u8
-#EXTINF:-1 tvg-name="灵幻至尊" group-title="其他",灵幻至尊
-https://vip.ffzy-play7.com/20221112/3550_cbc3226a/index.m3u8
 #EXTINF:-1 tvg-name="热门剧场" group-title="其他",热门剧场
 http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="热门综艺" group-title="其他",热门综艺
@@ -699,235 +389,19 @@ http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8
 http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="爱幼教" group-title="其他",爱幼教
 http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱情呼叫转移" group-title="其他",爱情呼叫转移
-https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
-#EXTINF:-1 tvg-name="爱情呼叫转移:爱情左右" group-title="其他",爱情呼叫转移:爱情左右
-https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
-#EXTINF:-1 tvg-name="爱情神话" group-title="其他",爱情神话
-https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
-#EXTINF:-1 tvg-name="特务迷城" group-title="其他",特务迷城
-https://vip.ffzy-play6.com/20221019/111_6edaadc7/index.m3u8
-#EXTINF:-1 tvg-name="特警新人类" group-title="其他",特警新人类
-https://vip.ffzy-play6.com/20221112/6113_c01821f3/index.m3u8
-#EXTINF:-1 tvg-name="狄仁杰之通天帝国" group-title="其他",狄仁杰之通天帝国
-https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
-#EXTINF:-1 tvg-name="狱中龙" group-title="其他",狱中龙
-https://vip.ffzy-play.com/20221015/999_d5886cd0/index.m3u8
-#EXTINF:-1 tvg-name="玻璃樽" group-title="其他",玻璃樽
-https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
-#EXTINF:-1 tvg-name="甩皮鬼" group-title="其他",甩皮鬼
-https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
-#EXTINF:-1 tvg-name="甲方乙方" group-title="其他",甲方乙方
-https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
 #EXTINF:-1 tvg-name="电竞天堂" group-title="其他",电竞天堂
 http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="画皮之阴阳法王" group-title="其他",画皮之阴阳法王
-https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
-#EXTINF:-1 tvg-name="白蛇传说" group-title="其他",白蛇传说
-https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
 #EXTINF:-1 tvg-name="百变课堂" group-title="其他",百变课堂
 http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="看天下精选" group-title="其他",看天下精选
 http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="神奇燕尾服" group-title="其他",神奇燕尾服
-https://vip.ffzy-play6.com/20221019/127_851b9820/index.m3u8
-#EXTINF:-1 tvg-name="神枪手与咖喱鸡" group-title="其他",神枪手与咖喱鸡
-https://vip.ffzy-play7.com/20221129/7684_7ac9e104/index.m3u8
-#EXTINF:-1 tvg-name="福星高照" group-title="其他",福星高照
-https://vip.ffzy-play6.com/20221128/8904_328483ba/index.m3u8
-#EXTINF:-1 tvg-name="私人订制" group-title="其他",私人订制
-https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
-#EXTINF:-1 tvg-name="秋天的童话" group-title="其他",秋天的童话
-https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
-#EXTINF:-1 tvg-name="秦颂" group-title="其他",秦颂
-https://vip.ffzy-play7.com/20221112/3653_ad708d24/index.m3u8
-#EXTINF:-1 tvg-name="笑傲江湖" group-title="其他",笑傲江湖
-https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
-#EXTINF:-1 tvg-name="笑傲江湖1" group-title="其他",笑傲江湖1
-https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-#EXTINF:-1 tvg-name="笑拳怪招" group-title="其他",笑拳怪招
-https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
-#EXTINF:-1 tvg-name="精装追女仔" group-title="其他",精装追女仔
-https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
-#EXTINF:-1 tvg-name="精装追女仔之2" group-title="其他",精装追女仔之2
-https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
-#EXTINF:-1 tvg-name="精装追女仔之3狼之一族" group-title="其他",精装追女仔之3狼之一族
-https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
-#EXTINF:-1 tvg-name="纵横四海" group-title="其他",纵横四海
-https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
-#EXTINF:-1 tvg-name="绝代双骄" group-title="其他",绝代双骄
-https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
-#EXTINF:-1 tvg-name="群龙夺宝" group-title="其他",群龙夺宝
-https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
-#EXTINF:-1 tvg-name="老虎田鸡" group-title="其他",老虎田鸡
-https://vip.ffzy-play7.com/20221224/9583_f95a6383/index.m3u8
-#EXTINF:-1 tvg-name="老鼠爱上猫" group-title="其他",老鼠爱上猫
-https://vip.ffzy-play2.com/20221019/50_7eedcf07/index.m3u8
-#EXTINF:-1 tvg-name="肝胆相照" group-title="其他",肝胆相照
-https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
-#EXTINF:-1 tvg-name="至尊三十六计之偷天换日" group-title="其他",至尊三十六计之偷天换日
-https://vip.ffzy-play.com/20221015/1085_37999806/index.m3u8
-#EXTINF:-1 tvg-name="至尊无上" group-title="其他",至尊无上
-https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
-#EXTINF:-1 tvg-name="至尊无上II之永霸天下" group-title="其他",至尊无上II之永霸天下
-https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
-#EXTINF:-1 tvg-name="至尊计状元才" group-title="其他",至尊计状元才
-https://vip.ffzy-play7.com/20221112/3440_9d089764/index.m3u8
-#EXTINF:-1 tvg-name="花旗少林" group-title="其他",花旗少林
-https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
-#EXTINF:-1 tvg-name="英雄好汉" group-title="其他",英雄好汉
-https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" group-title="其他",茶频道
 http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="蛇鹤八步" group-title="其他",蛇鹤八步
-https://vip.ffzy-play6.com/20221128/9119_1b13e298/index.m3u8
-#EXTINF:-1 tvg-name="血玫瑰" group-title="其他",血玫瑰
-https://vip.ffzy-play6.com/20221116/7310_02f7420d/index.m3u8
-#EXTINF:-1 tvg-name="行运一条龙" group-title="其他",行运一条龙
-https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
-#EXTINF:-1 tvg-name="解救吾先生" group-title="其他",解救吾先生
-https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
-#EXTINF:-1 tvg-name="警察故事" group-title="其他",警察故事
-https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
-#EXTINF:-1 tvg-name="警察故事2013" group-title="其他",警察故事2013
-https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
-#EXTINF:-1 tvg-name="警察故事3" group-title="其他",警察故事3
-https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
-#EXTINF:-1 tvg-name="警察故事4" group-title="其他",警察故事4
-https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
-#EXTINF:-1 tvg-name="警察故事续集" group-title="其他",警察故事续集
-https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" group-title="其他",谍战剧场
 http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="豪门夜宴" group-title="其他",豪门夜宴
-https://vip.ffzy-play.com/20221204/29458_3909f6d0/index.m3u8
-#EXTINF:-1 tvg-name="赌侠大战拉斯维加斯" group-title="其他",赌侠大战拉斯维加斯
-https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
-#EXTINF:-1 tvg-name="赌城大亨II之至尊无敌" group-title="其他",赌城大亨II之至尊无敌
-https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
-#EXTINF:-1 tvg-name="赌城大亨之新哥传奇" group-title="其他",赌城大亨之新哥传奇
-https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
-#EXTINF:-1 tvg-name="赌神1" group-title="其他",赌神1
-https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
-#EXTINF:-1 tvg-name="赌霸" group-title="其他",赌霸
-https://vip.ffzy-play7.com/20221209/9045_b3cb4c1c/index.m3u8
-#EXTINF:-1 tvg-name="赞先生与找钱华" group-title="其他",赞先生与找钱华
-https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
-#EXTINF:-1 tvg-name="赢钱专家" group-title="其他",赢钱专家
-https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8
-#EXTINF:-1 tvg-name="赵氏孤儿" group-title="其他",赵氏孤儿
-https://vip.ffzy-play6.com/20221022/1071_73fbd377/index.m3u8
-#EXTINF:-1 tvg-name="超时空同居" group-title="其他",超时空同居
-https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
-#EXTINF:-1 tvg-name="超级计划" group-title="其他",超级计划
-https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
-#EXTINF:-1 tvg-name="辣手神探" group-title="其他",辣手神探
-https://vip.ffzy-play7.com/20221112/3526_ba428b29/index.m3u8
-#EXTINF:-1 tvg-name="过年" group-title="其他",过年
-https://vip.ffzy-play6.com/20221112/6307_79a4bfc2/index.m3u8
-#EXTINF:-1 tvg-name="追魂伞" group-title="其他",追魂伞
-https://vip.ffzy-play7.com/20221129/7753_bd15d501/index.m3u8
-#EXTINF:-1 tvg-name="追龙" group-title="其他",追龙
-https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
-#EXTINF:-1 tvg-name="逃学威龙2" group-title="其他",逃学威龙2
-https://vip.ffzy-play6.com/20221112/6101_3ea56df6/index.m3u8
-#EXTINF:-1 tvg-name="逃学威龙3之龙过鸡年" group-title="其他",逃学威龙3之龙过鸡年
-https://vip.ffzy-play6.com/20221112/6103_d6c1afdb/index.m3u8
-#EXTINF:-1 tvg-name="醉拳2" group-title="其他",醉拳2
-https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
-#EXTINF:-1 tvg-name="醉拳3" group-title="其他",醉拳3
-https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
-#EXTINF:-1 tvg-name="铜雀台" group-title="其他",铜雀台
-https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
-#EXTINF:-1 tvg-name="门徒" group-title="其他",门徒
-https://vip.ffzy-play.com/20221017/1787_03664048/index.m3u8
-#EXTINF:-1 tvg-name="阿郎的故事" group-title="其他",阿郎的故事
-https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
-#EXTINF:-1 tvg-name="阿飞正传" group-title="其他",阿飞正传
-https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://sh.lnott.top:880/dx51.m3u8
-#EXTINF:-1 tvg-name="霍元甲" group-title="其他",霍元甲
-https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
-#EXTINF:-1 tvg-name="霹雳大喇叭" group-title="其他",霹雳大喇叭
-https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
 #EXTINF:-1 tvg-name="青春动漫" group-title="其他",青春动漫
 http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="非诚勿扰1" group-title="其他",非诚勿扰1
-https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8
-#EXTINF:-1 tvg-name="非诚勿扰2" group-title="其他",非诚勿扰2
-https://vip.ffzy-play2.com/20221021/163_a55441c0/index.m3u8
-#EXTINF:-1 tvg-name="音乐僵尸" group-title="其他",音乐僵尸
-https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8
-#EXTINF:-1 tvg-name="顽主" group-title="其他",顽主
-https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
-#EXTINF:-1 tvg-name="飞鹰计划" group-title="其他",飞鹰计划
-https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
-#EXTINF:-1 tvg-name="飞龙再生" group-title="其他",飞龙再生
-https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
-#EXTINF:-1 tvg-name="飞龙猛将" group-title="其他",飞龙猛将
-https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
-#EXTINF:-1 tvg-name="驱魔警察" group-title="其他",驱魔警察
-https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
-#EXTINF:-1 tvg-name="驱魔道长" group-title="其他",驱魔道长
-https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
-#EXTINF:-1 tvg-name="鬼咬鬼" group-title="其他",鬼咬鬼
-https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
-#EXTINF:-1 tvg-name="鬼打鬼" group-title="其他",鬼打鬼
-https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
-#EXTINF:-1 tvg-name="鬼打鬼之黄金道士" group-title="其他",鬼打鬼之黄金道士
-https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
-#EXTINF:-1 tvg-name="鹿鼎记" group-title="其他",鹿鼎记
-http://c1.rrcdnbf6.com/video/ludingji/HD国语/index.m3u8
-#EXTINF:-1 tvg-name="黄大仙" group-title="其他",黄大仙
-https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
-#EXTINF:-1 tvg-name="黄河遥" group-title="其他",黄河遥
-https://vip.ffzy-play7.com/20221117/5148_d5633e82/index.m3u8
-#EXTINF:-1 tvg-name="黄花城水长城02" group-title="其他",黄花城水长城02
-http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿92之龙行天下" group-title="其他",黄飞鸿92之龙行天下
-https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿系列之一代宗师" group-title="其他",黄飞鸿系列之一代宗师
-https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
-#EXTINF:-1 tvg-name="黑侠" group-title="其他",黑侠
-https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
-#EXTINF:-1 tvg-name="黑金" group-title="其他",黑金
-https://vip.ffzy-play6.com/20221022/751_a7889097/index.m3u8
-#EXTINF:-1 tvg-name="龙之家族" group-title="其他",龙之家族
-https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
-#EXTINF:-1 tvg-name="龙兄虎弟" group-title="其他",龙兄虎弟
-https://vip.ffzy-play6.com/20221116/7264_5b0b594e/index.m3u8
-#EXTINF:-1 tvg-name="龙凤斗" group-title="其他",龙凤斗
-https://vip.ffzy-play2.com/20221019/18_d8d1ad76/index.m3u8
-#EXTINF:-1 tvg-name="龙在江湖" group-title="其他",龙在江湖
-https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
-#EXTINF:-1 tvg-name="龙少爷" group-title="其他",龙少爷
-https://vip.ffzy-play7.com/20221115/4703_5132dc98/index.m3u8
-#EXTINF:-1 tvg-name="龙拳" group-title="其他",龙拳
-https://vip.ffzy-play6.com/20221128/9052_3612e0ff/index.m3u8
-#EXTINF:-1 tvg-name="龙的传人" group-title="其他",龙的传人
-https://vip.ffzy-play7.com/20221112/3556_7788de32/index.m3u8
-#EXTINF:-1 tvg-name="龙的心" group-title="其他",龙的心
-https://vip.ffzy-play7.com/20221115/4539_8b9150f6/index.m3u8
-#EXTINF:-1 tvg-name="龙腾四海" group-title="其他",龙腾四海
-https://vip.ffzy-play7.com/20221112/3563_422b85c5/index.m3u8
-#EXTINF:-1 tvg-name="龙腾虎跃" group-title="其他",龙腾虎跃
-https://vip.ffzy-play7.com/20221117/5171_c2d4c959/index.m3u8
-#EXTINF:-1 tvg-name="龙虎风云" group-title="其他",龙虎风云
-https://vip.ffzy-play6.com/20221128/8945_9b4193cd/index.m3u8
-#EXTINF:-1 tvg-name="🔀97家有喜事" group-title="其他",🔀97家有喜事
-https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
-#EXTINF:-1 tvg-name="🔀97家有喜事" group-title="其他",🔀97家有喜事
-https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
-#EXTINF:-1 tvg-name="🔀九品芝麻官" group-title="其他",🔀九品芝麻官
-https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
-#EXTINF:-1 tvg-name="🔀算死草" group-title="其他",🔀算死草
-https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
-#EXTINF:-1 tvg-name="🔀西游降魔篇" group-title="其他",🔀西游降魔篇
-https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
-#EXTINF:-1 tvg-name="🔀逃学威龙2" group-title="其他",🔀逃学威龙2
-https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="🔀鹿鼎记2之神龙教" group-title="其他",🔀鹿鼎记2之神龙教
-https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
