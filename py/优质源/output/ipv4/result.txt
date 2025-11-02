@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://171.116.216.113:10010/rtp/226.0.1.157:3086#https://shyd.695847.xyz/cms001/ch00000090990000001022/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12#http://sh.lnott.top:880/dx01.m3u8
+CCTV1,http://171.116.216.113:10010/rtp/226.0.1.157:3086#http://sh.lnott.top:880/dx01.m3u8#https://shyd.695847.xyz/cms001/ch00000090990000001022/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CCTV2,http://sh.lnott.top:880/dx02.m3u8
 CCTV3,https://iptv.catvod.com/live.php?id=CCTV3%E7%BB%BC%E8%89%BA#http://sh.lnott.top:880/dx03.m3u8
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85#https://iptv.catvod.com/live.php?id=CCTV4%E7%BE%8E%E6%B4%B2#https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2
@@ -118,7 +118,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -132,7 +132,7 @@ CCTV11066600,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chu
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
@@ -146,7 +146,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=b5bb5e419d5e08e68d6e9cd1ffb482bd&wsTime=1762056014
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=df20875acc544744971e442c24979e09&wsTime=1762099221
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 旅游卫视,http://123.129.70.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
