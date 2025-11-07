@@ -1282,3 +1282,5 @@ d18dyiwu97wm6q.cloudfront.net
 streams2.sofast.tv
 fxgm.fxjf.work
 smt.1678520.xyz
+voa-ingest.akamaized.net
+shyd.695847.xyz
