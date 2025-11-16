@@ -1289,3 +1289,4 @@ fn.130519.xyz
 120.46.223.160
 43.152.143.193
 vallest.uk
+live.chinacert.cftest5.cn
