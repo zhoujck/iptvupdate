@@ -1292,3 +1292,4 @@ vallest.uk
 live.chinacert.cftest5.cn
 live.zohi.tv
 iot-mqqt.111yao.cn
+live-hls-web-aje.getaj.net
