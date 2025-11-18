@@ -36,7 +36,7 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 东南卫视,http://219.145.59.166:8888/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/23/index.m3u8
 深圳卫视,http://112.6.239.227:8207/hls/21/index.m3u8
 广东卫视,http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0#http://sh.lnott.top:880/dx40.m3u8#http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8
-广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8#http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8#http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
 河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8
 河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8
@@ -128,7 +128,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -141,7 +141,7 @@ CCTV11066600,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chu
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
@@ -155,7 +155,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=9025af31be6edbdb68a68f98a1372012&wsTime=1763438410
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ec0efa8f6edf7a3643ba84b0f0274048&wsTime=1763460015
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
