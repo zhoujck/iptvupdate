@@ -23,7 +23,7 @@ CCTV风云足球,http://sh.lnott.top:880/dx71.m3u8
 CETV1,http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 卫视频道,#genre#
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0#http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8#http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0#http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0#http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 浙江卫视,http://58.17.116.69:9903/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0#http://112.6.239.227:8207/hls/16/index.m3u8
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0#http://58.17.116.69:9903/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -79,7 +79,7 @@ iHOT爱旅行,http://itv.uat.news/TVOD/6000000006000250630/wasusyt/index.m3u8
 iHOT爱谍战,http://itv.uat.news/TVOD/6000000006000070630/wasusyt/index.m3u8
 iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 卡酷少儿,http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8
-嘉佳卡通,https://mgev.188766.xyz/?migutoken=b12c55c20d2468a6dfdebb82fc583ffb&id=gd_jjkt&type=sz
+嘉佳卡通,https://mgev.188766.xyz/?migutoken=2c41abc82aed55f4b819b2eb69796cfd&id=gd_jjkt&type=sz
 金鹰卡通,http://itv.uat.news/TVOD/5000000006000040024/bestzb/index.m3u8
 金色学堂,http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8
 劲爆体育,http://itv.uat.news/TVOD/5000000002000029972/bestzb/index.m3u8
@@ -106,14 +106,14 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 ☘️福建省,#genre#
 厦门卫视,http://sh.lnott.top:880/dx48.m3u8#http://112.6.239.227:8207/hls/17/index.m3u8
 ☘️广东省,#genre#
-广东体育,https://mgev.188766.xyz/?migutoken=18a1b27914a403cbdc35fc6dbea57824&id=gd_gdty&type=sz
-广东少儿,https://mgev.188766.xyz/?migutoken=64c819ac9373e91ddb4989d946121337&id=gd_gdse&type=sz
-广东影视,https://mgev.188766.xyz/?migutoken=7a31532d3c0ff2d1e12737efcba37e43&id=gd_gdys&type=sz
-广东新闻,https://mgev.188766.xyz/?migutoken=46d24f053ba9141d6d82635de01fdc9c&id=gd_gdxw&type=sz
-广东珠江,https://mgev.188766.xyz/?migutoken=db69da0b93d125ca5d5d6ee3de8ea1ab&id=gd_gdzj&type=sz
-广东民生,https://mgev.188766.xyz/?migutoken=ffd1e96d2479bdec93816714f5c4372d&id=gd_gdms&type=sz
-岭南戏曲,https://mgev.188766.xyz/?migutoken=5ac9c3ac9837323026d2667f8d61d0d9&id=gd_lnxq&type=sz
-现代教育,https://mgev.188766.xyz/?migutoken=16a1c3fa3cbfe42c772529f093981970&id=gd_xdjy&type=sz
+广东体育,https://mgev.188766.xyz/?migutoken=004c70ce9f298bfb4557e3e392f9f013&id=gd_gdty&type=sz
+广东少儿,https://mgev.188766.xyz/?migutoken=447bd654c6b63c068680ad49674da332&id=gd_gdse&type=sz
+广东影视,https://mgev.188766.xyz/?migutoken=c60b77bc9cf37e740e3e569c1b32c2d2&id=gd_gdys&type=sz
+广东新闻,https://mgev.188766.xyz/?migutoken=e69da4f495b6b2b7d0fff00dfca4face&id=gd_gdxw&type=sz
+广东珠江,https://mgev.188766.xyz/?migutoken=f90a279fc7e7f166ffbdaaea3b73a463&id=gd_gdzj&type=sz
+广东民生,https://mgev.188766.xyz/?migutoken=b983ea615b35eadba6f543f1cca655c1&id=gd_gdms&type=sz
+岭南戏曲,https://mgev.188766.xyz/?migutoken=ac8b53816dd8f26f8b711979ae489b11&id=gd_lnxq&type=sz
+现代教育,https://mgev.188766.xyz/?migutoken=101402a506d7412460f9671c500adea0&id=gd_xdjy&type=sz
 ☘️湖南省,#genre#
 金鹰纪实,http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
 ☘️江苏省,#genre#
@@ -150,7 +150,7 @@ BesTV直播1,http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
 BesTV直播2,http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
@@ -166,11 +166,11 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=00cb93be490dd5ad4891b3e4e9300c18&wsTime=1764000096
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=907f81c86038cf4a15cc3b53dc30a819&wsTime=1764021603
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 广东卫视4K,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K%E5%8F%B0
-广东生活频道,https://mgev.188766.xyz/?migutoken=698eca8c6971e1902c308029e6ee732f&id=gd_gdsh&type=sz
-广东移动,https://mgev.188766.xyz/?migutoken=a072b922d65f434e76fb03b384b167db&id=gd_gdyd&type=sz
+广东生活频道,https://mgev.188766.xyz/?migutoken=00195a48f52cbf79b4910bc163732bb4&id=gd_gdsh&type=sz
+广东移动,https://mgev.188766.xyz/?migutoken=f905cc8afb4bb47a5a62b85524162b63&id=gd_gdyd&type=sz
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
 欢笑剧场4K,http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
