@@ -1300,3 +1300,4 @@ live-hls-web-aje.getaj.net
 srs.ssws.tv
 stream.freetv.fun
 mgev.188766.xyz
+60.13.52.236
