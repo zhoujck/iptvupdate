@@ -1301,3 +1301,4 @@ srs.ssws.tv
 stream.freetv.fun
 mgev.188766.xyz
 60.13.52.236
+webcast.hkstv.tv
