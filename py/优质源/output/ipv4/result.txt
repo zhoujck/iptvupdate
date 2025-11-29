@@ -14,17 +14,17 @@ CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 CETV1,http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 卫视频道,#genre#
-湖南卫视,http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0#http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8
-北京卫视,http://58.17.116.69:9903/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0#http://61.163.181.78:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0#https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8#http://sh.lnott.top:880/dx33.m3u8
-安徽卫视,http://58.17.116.69:9903/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0#http://112.6.239.227:8207/hls/19/index.m3u8
+北京卫视,http://61.163.181.78:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.17.116.69:9903/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8#http://sh.lnott.top:880/dx33.m3u8#http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8#http://58.17.116.69:9903/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://58.17.116.69:9903/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://58.17.116.69:9903/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0#http://112.6.239.227:8207/hls/27/index.m3u8
+四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8#http://58.17.116.69:9903/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8
 深圳卫视,http://219.145.59.166:8888/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/21/index.m3u8
-广东卫视,http://58.17.116.69:9903/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0#http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8
-广西卫视,http://58.17.116.69:9903/tsfile/live/0113_2.m3u8?key=txiptv&playlive=0&authid=0#http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#http://112.6.239.227:8207/hls/32/index.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8#http://58.17.116.69:9903/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#http://112.6.239.227:8207/hls/32/index.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#http://58.17.116.69:9903/tsfile/live/0113_2.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8
 河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86#http://112.6.239.227:8207/hls/31/index.m3u8
@@ -34,7 +34,7 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 辽宁卫视,http://58.17.116.69:9903/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://sh.lnott.top:880/dx54.m3u8#http://60.16.0.216:5757/hls/43/index.m3u8
-山东卫视,http://58.17.116.69:9903/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0#http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8#http://112.6.239.227:8207/hls/15/index.m3u8#http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+山东卫视,http://live.dxhmt.cn:9081/tv/11521-1.m3u8#http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8#http://112.6.239.227:8207/hls/15/index.m3u8#http://58.17.116.69:9903/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://sh.lnott.top:880/dx39.m3u8#http://112.6.239.227:8207/hls/26/index.m3u8
 海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
@@ -127,7 +127,7 @@ BesTV直播2,http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
 CCTV11066600,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
@@ -141,7 +141,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=9631d8b829e82ac103f2779cbc099b12&wsTime=1764388812
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=5f60cf36979f324afa42a675160de792&wsTime=1764410421
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
