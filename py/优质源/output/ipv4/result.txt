@@ -145,7 +145,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=5c5d298a661b60192023a522f552f257&wsTime=1764655223
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=b844f2e02462cc5c74f450c7d0c2865f&wsTime=1764691233
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
