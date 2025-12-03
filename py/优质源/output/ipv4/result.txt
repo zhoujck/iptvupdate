@@ -11,18 +11,10 @@ CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub#http://1.24
 CCTV10,http://1.24.39.180:9003/hls/10/index.m3u8
 CCTV12,http://219.145.59.166:8888/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0#http://sh.lnott.top:880/dx12.m3u8#http://112.6.239.227:8207/hls/13/index.m3u8#http://1.24.39.180:9003/hls/12/index.m3u8
 CCTV13,http://112.6.239.227:8207/hls/14/index.m3u8#http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-CCTV14,http://183.238.86.52:4022/rtp/239.10.0.212:1025
-CCTV15,http://1.24.39.180:9003/hls/15/index.m3u8#http://183.238.86.52:4022/rtp/239.11.0.25:1025
+CCTV15,http://1.24.39.180:9003/hls/15/index.m3u8
 CCTV16,http://1.24.39.180:9003/hls/60/index.m3u8
 CCTV17,http://sh.lnott.top:880/dx17.m3u8#http://1.24.39.180:9003/hls/61/index.m3u8
-CCTV第一剧场,http://183.238.86.52:4022/rtp/239.11.0.67:1025
-CCTV怀旧剧场,http://183.238.86.52:4022/rtp/239.11.0.64:1025
-CCTV风云剧场,http://183.238.86.52:4022/rtp/239.11.0.65:1025
-CCTV风云音乐,http://183.238.86.52:4022/rtp/239.11.0.68:1025
-CCTV兵器科技,http://sh.lnott.top:880/dx81.m3u8#http://183.238.86.52:4022/rtp/239.11.0.57:1025
-CCTV风云足球,http://183.238.86.52:4022/rtp/239.11.0.59:1025
-CCTV电视指南,http://183.238.86.52:4022/rtp/239.11.0.58:1025
-CCTV世界地理,http://183.238.86.52:4022/rtp/239.11.0.63:1025
+CCTV兵器科技,http://sh.lnott.top:880/dx81.m3u8
 中国天气,http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
 CETV1,http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
@@ -32,10 +24,10 @@ CETV4,http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
 东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8
-深圳卫视,http://219.145.59.166:8888/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/21/index.m3u8#http://183.238.86.52:4022/rtp/239.10.0.52:1025
-广东卫视,http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8#http://120.40.39.246:352/newlive/live/hls/25/live.m3u8#http://183.238.86.52:4022/rtp/239.10.0.111:1025
+深圳卫视,http://219.145.59.166:8888/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/21/index.m3u8
+广东卫视,http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8#http://120.40.39.246:352/newlive/live/hls/25/live.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-甘肃卫视,http://sh.lnott.top:880/dx56.m3u8#http://183.238.86.52:4022/rtp/239.11.0.175:1025
+甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
 河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://112.6.239.227:8207/hls/31/index.m3u8
 江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8
@@ -115,7 +107,7 @@ iHOT爱科学,http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
 ☘️新疆,#genre#
 新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8#http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 ☘️天津市,#genre#
-天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8#http://183.238.86.52:4022/rtp/239.10.0.55:1025
+天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8
 ☘️港·澳·台,#genre#
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8#http://27.41.245.32:801/hls/205/index.m3u8
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -133,10 +125,9 @@ AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 BesTV直播1,http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
 BesTV直播2,http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
 CCTV11066600,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-CCTV文化精品,http://183.238.86.52:4022/rtp/239.11.0.66:1025
 CGTN,http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 CGTN-纪录,http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
@@ -149,7 +140,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 华语影院,http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
 咪咕体育,http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 咪咕视频,http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fd41e12c6ec4c88fd52bfdb83da37d28&wsTime=1764734412
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a0e36e227170eb96d72363ad3bebf2cb&wsTime=1764777630
 宝宝动画,http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
 戏曲精选,http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
 星光影院,http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
@@ -172,4 +163,3 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 谍战剧场,http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
 陕西卫视,http://sh.lnott.top:880/dx51.m3u8#http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 青春动漫,http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
-﻿CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
