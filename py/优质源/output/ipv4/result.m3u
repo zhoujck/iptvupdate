@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV1"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV1"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://sh.lnott.top:880/dx02.m3u8
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
@@ -69,12 +67,6 @@ http://sh.lnott.top:880/dx71.m3u8
 http://sh.lnott.top:880/dx98.m3u8
 #EXTINF:-1 tvg-name="CCTV女性时尚"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://sh.lnott.top:880/dx105.m3u8
-#EXTINF:-1 tvg-name="中国天气"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="央视频道",中国天气
-http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="CETV1"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="央视频道",CETV1
-http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="CETV4"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道",CETV4
-http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -153,124 +145,12 @@ http://112.6.239.227:8207/hls/24/index.m3u8
 http://sh.lnott.top:880/dx60.m3u8
 #EXTINF:-1 tvg-name="农林卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
 http://144.255.32.94:8288/rtp/239.21.1.235:5002
-#EXTINF:-1 tvg-name="华数4K"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数4K.png" group-title="数字频道",华数4K
-http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="精彩影视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/精彩影视.png" group-title="数字频道",精彩影视
-http://itv.uat.news/TVOD/6000000006000320630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="SiTV 魅力足球"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/SiTV 魅力足球.png" group-title="数字频道",SiTV 魅力足球
-http://itv.uat.news/TVOD/5000000011000031207/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金色学堂.png" group-title="数字频道",金色学堂
-http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级体育.png" group-title="数字频道",NewTV超级体育
-http://itv.uat.news/TVOD/1000000001000009601/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
-http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电视剧"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电视剧.png" group-title="数字频道",NewTV超级电视剧
-http://itv.uat.news/TVOD/1000000001000008139/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV东北热剧"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV东北热剧.png" group-title="数字频道",NewTV东北热剧
-http://itv.uat.news/TVOD/2000000003000000051/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV欢乐剧场.png" group-title="数字频道",NewTV欢乐剧场
-http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品综合.png" group-title="数字频道",NewTV精品综合
-http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
-http://itv.uat.news/TVOD/1000000004000023658/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV欢乐剧场.png" group-title="数字频道",NewTV欢乐剧场
-http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="NewTV魅力潇湘"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV魅力潇湘.png" group-title="数字频道",NewTV魅力潇湘
-http://itv.uat.news/TVOD/1000000001000006197/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱院线"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱院线.png" group-title="数字频道",iHOT爱院线
-http://itv.uat.news/TVOD/6000000006000030630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱科幻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱科幻.png" group-title="数字频道",iHOT爱科幻
-http://itv.uat.news/TVOD/6000000006000020630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱浪漫"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱浪漫.png" group-title="数字频道",iHOT爱浪漫
-http://itv.uat.news/TVOD/6000000006000040630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱悬疑"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱悬疑.png" group-title="数字频道",iHOT爱悬疑
-http://itv.uat.news/TVOD/6000000006000050630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱赛车"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱赛车.png" group-title="数字频道",iHOT爱赛车
-http://itv.uat.news/TVOD/6000000006000240630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱玩具"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱玩具.png" group-title="数字频道",iHOT爱玩具
-http://itv.uat.news/TVOD/6000000006000220630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱旅行"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱旅行.png" group-title="数字频道",iHOT爱旅行
-http://itv.uat.news/TVOD/6000000006000250630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱谍战"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱谍战.png" group-title="数字频道",iHOT爱谍战
-http://itv.uat.news/TVOD/6000000006000070630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱科学"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱科学.png" group-title="数字频道",iHOT爱科学
-http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
-http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://itv.uat.news/TVOD/5000000006000040024/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金色学堂.png" group-title="数字频道",金色学堂
-http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="劲爆体育"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="数字频道",劲爆体育
-http://itv.uat.news/TVOD/5000000002000029972/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="哒啵电竞"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
-http://itv.uat.news/TVOD/1000000006000032327/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="乐游"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐游.png" group-title="数字频道",乐游
-http://itv.uat.news/TVOD/5000000011000031112/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://itv.uat.news/TVOD/5000000011000031206/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="求索动物"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索动物.png" group-title="数字频道",求索动物
-http://itv.uat.news/TVOD/2000000004000000009/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="求索科学"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索科学.png" group-title="数字频道",求索科学
-http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="求索生活"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索生活.png" group-title="数字频道",求索生活
-http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="上海都市"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="☘️上海市",上海都市
-http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="五星体育"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="☘️上海市",五星体育
-http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="东方影视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="☘️上海市",东方影视
-http://itv.uat.news/TVOD/5000000010000032212/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="东方财经"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海市",东方财经
-http://itv.uat.news/TVOD/5000000007000010003/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="法治天地"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海市",法治天地
-http://itv.uat.news/TVOD/9001547084732463424/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="第一财经"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海市",第一财经
-http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海动漫秀场" group-title="☘️上海市",上海动漫秀场
-http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" group-title="☘️上海市",上海新闻综合
-http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海生活时尚" group-title="☘️上海市",上海生活时尚
-http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海都市剧场" group-title="☘️上海市",上海都市剧场
-http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="☘️上海市",哈哈炫动
-http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建省",厦门卫视
 http://125.42.151.128:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="厦门卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建省",厦门卫视
 http://sh.lnott.top:880/dx48.m3u8
 #EXTINF:-1 tvg-name="厦门卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建省",厦门卫视
 http://112.6.239.227:8207/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南省",金鹰纪实
-http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南省",金鹰纪实
-http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海都市"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="☘️上海市",上海都市
-http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="五星体育"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="☘️上海市",五星体育
-http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="东方影视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="☘️上海市",东方影视
-http://itv.uat.news/TVOD/5000000010000032212/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="东方财经"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海市",东方财经
-http://itv.uat.news/TVOD/5000000007000010003/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="法治天地"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海市",法治天地
-http://itv.uat.news/TVOD/9001547084732463424/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="第一财经"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海市",第一财经
-http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海动漫秀场" group-title="☘️上海市",上海动漫秀场
-http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" group-title="☘️上海市",上海新闻综合
-http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海生活时尚" group-title="☘️上海市",上海生活时尚
-http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海都市剧场" group-title="☘️上海市",上海都市剧场
-http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="☘️上海市",哈哈炫动
-http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",新疆卫视
 http://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="天津卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="☘️天津市",天津卫视
@@ -283,16 +163,12 @@ http://27.41.245.32:801/hls/205/index.m3u8
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="☘️港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="美亚C+"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚C+.png" group-title="☘️港·澳·台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 #EXTINF:-1 tvg-name="环球电视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球电视.png" group-title="☘️港·澳·台",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="☘️港·澳·台",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 tvg-name="台视新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="☘️港·澳·台",台视新闻
-https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲新闻.png" group-title="☘️港·澳·台",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="其他",其他
@@ -301,24 +177,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AXS TV Now" group-title="其他",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="BesTV直播1" group-title="其他",BesTV直播1
-http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="BesTV直播2" group-title="其他",BesTV直播2
-http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11066600" group-title="其他",CCTV11066600
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1 tvg-name="CGTN" group-title="其他",CGTN
-http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="CGTN-纪录" group-title="其他",CGTN-纪录
-http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" group-title="其他",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC" group-title="其他",MBC
@@ -333,61 +201,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="Wion News" group-title="其他",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="健康养生" group-title="其他",健康养生
-http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="全球大片" group-title="其他",全球大片
-http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="华语影院" group-title="其他",华语影院
-http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育" group-title="其他",咪咕体育
-http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" group-title="其他",咪咕视频
-http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=c4ad4e6ea0d058300a1c02911376fd07&wsTime=1764864042
-#EXTINF:-1 tvg-name="宝宝动画" group-title="其他",宝宝动画
-http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="戏曲精选" group-title="其他",戏曲精选
-http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="星光影院" group-title="其他",星光影院
-http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" group-title="其他",欢笑剧场4K
-http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" group-title="其他",求索纪录
-http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=68438a57e3580a9cb1008a48365f2e25&wsTime=1764885607
 #EXTINF:-1 tvg-name="法·时尚" group-title="其他",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 tvg-name="游戏风云" group-title="其他",游戏风云
-http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="热门剧场" group-title="其他",热门剧场
-http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="热门综艺" group-title="其他",热门综艺
-http://itv.uat.news/TVOD/5000000011000288011/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="爱体育" group-title="其他",爱体育
-http://itv.uat.news/TVOD/6000000006000290630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱动漫" group-title="其他",爱动漫
-http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱历史" group-title="其他",爱历史
-http://itv.uat.news/TVOD/6000000006000150630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱喜剧" group-title="其他",爱喜剧
-http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱奇谈" group-title="其他",爱奇谈
-http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱幼教" group-title="其他",爱幼教
-http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他",电竞天堂
-http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="百变课堂" group-title="其他",百变课堂
-http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="看天下精选" group-title="其他",看天下精选
-http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="茶频道" group-title="其他",茶频道
-http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="谍战剧场" group-title="其他",谍战剧场
-http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://sh.lnott.top:880/dx51.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 tvg-name="青春动漫" group-title="其他",青春动漫
-http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8
