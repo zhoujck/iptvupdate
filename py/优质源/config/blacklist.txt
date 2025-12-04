@@ -1310,3 +1310,6 @@ tnvcn.com
 183.220.107.138
 222.212.84.190
 183.238.86.52
+itv.uat.news
+live.wcetv.com
+a.402089.xyz
