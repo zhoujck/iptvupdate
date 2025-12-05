@@ -18,27 +18,23 @@ CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 CCTV风云足球,http://sh.lnott.top:880/dx71.m3u8
 卫视频道,#genre#
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8#http://sh.lnott.top:880/dx33.m3u8#http://60.16.0.216:5757/hls/24/index.m3u8
+江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8#http://sh.lnott.top:880/dx33.m3u8
 安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8
-重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
-四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8#http://112.6.239.227:8207/hls/27/index.m3u8
+四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8
 东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8
 深圳卫视,http://112.6.239.227:8207/hls/21/index.m3u8
 广东卫视,http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.6.239.227:8207/hls/22/index.m3u8#http://pa.kuangdeng.top:8081/hls/17/index.m3u8
-广西卫视,http://60.16.0.216:5757/hls/45/index.m3u8#http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#http://112.6.239.227:8207/hls/32/index.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#http://112.6.239.227:8207/hls/32/index.m3u8#https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
-贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8
 河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://112.6.239.227:8207/hls/31/index.m3u8
-湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8#http://60.16.0.216:5757/hls/33/index.m3u8
+湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8
 江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8
 吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8#http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
-内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8
-辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
 宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
 青海卫视,http://sh.lnott.top:880/dx54.m3u8
 山东卫视,http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8#http://112.6.239.227:8207/hls/15/index.m3u8
-山西卫视,http://sh.lnott.top:880/dx39.m3u8#http://60.16.0.216:5757/hls/39/index.m3u8#http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8#http://112.6.239.227:8207/hls/26/index.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8#http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8#http://112.6.239.227:8207/hls/26/index.m3u8
 海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 农林卫视,http://sh.lnott.top:880/dx60.m3u8#http://144.255.32.94:8288/rtp/239.21.1.235:5002
@@ -50,7 +46,7 @@ CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 ☘️新疆,#genre#
 新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8#http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 ☘️天津市,#genre#
-天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8#http://112.6.239.227:8207/hls/18/index.m3u8
+天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8
 ☘️港·澳·台,#genre#
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8#http://27.41.245.32:801/hls/205/index.m3u8
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -64,7 +60,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 CCTV11066600,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
@@ -72,6 +68,6 @@ RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e6ee44eec56b0c4d1884deaeb738cc9e&wsTime=1764914426
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d03ffb8399a8d0dd63243f5fe793934d&wsTime=1764928832
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 陕西卫视,http://sh.lnott.top:880/dx51.m3u8#http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
