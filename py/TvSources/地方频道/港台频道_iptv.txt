@@ -1,36 +1,18 @@
 港台频道,#genre#
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-天映经典,http://j.s.bkpcp.top/js/tyjd5
-TVB翡翠台,http://j.s.bkpcp.top/jj/fct
-美亞電影台,http://j.s.bkpcp.top/jj/mydy3
-天映经典,http://j.s.bkpcp.top/jj/tyjd
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-美亚电影,http://j.s.bkpcp.top/js/mydy
-天映经典,http://j.s.bkpcp.top/js/tyjd
-龙华电影,http://j.s.bkpcp.top/js/lhdy
-龙华电影,http://j.s.bkpcp.top/js/lhdy
-TVB星河,http://j.s.bkpcp.top/js/xht2
-Astro AEC,http://j.s.bkpcp.top/js/aaec
-TVB翡翠台,http://z.b.bkpcp.top/m.php?id=tvbfct
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-天映经典,http://j.s.bkpcp.top/js/tyjd3
-美亚电影,http://j.s.bkpcp.top/js/mydy2
-龙华偶像,http://j.s.bkpcp.top/js/lhox
-天映经典,http://j.s.bkpcp.top/js/tyjd1
-千禧经典台,http://j.s.bkpcp.top/js/qxjdt
-凤凰中文,http://f.h.bkpcp.top/fhx/fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://b.j.bkpcp.top/bjyd/fhzx
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://f.h.bkpcp.top/fhx/fhzx
 翡翠台,http://mytvsuper.27481716.xyz/mytvsuper/J
-凤凰香港,http://b.j.bkpcp.top/bjyd/fhhk
-凤凰香港,http://f.h.bkpcp.top/fhx/fhhk
-ViuTV,http://z.b.bkpcp.top/m.php?id=viutv
-翡翠台,http://j.s.bkpcp.top/jj/fct
-明珠台,http://mytvsuper.27481716.xyz/mytvsuper/B
 凤凰中文,http://b.j.bkpcp.top/bjyd/fhzw
+凤凰中文,http://f.h.bkpcp.top/fhx/fhzw
+凤凰香港,http://b.j.bkpcp.top/bjyd/fhhk
+凤凰资讯,http://b.j.bkpcp.top/bjyd/fhzx
+明珠台,http://mytvsuper.27481716.xyz/mytvsuper/B
+凤凰香港,http://f.h.bkpcp.top/fhx/fhhk
