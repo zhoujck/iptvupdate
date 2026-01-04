@@ -1337,3 +1337,5 @@ pull-hsbj.vzan.com
 58.51.111.46
 btjg.net
 utv1.hqtvzb.com
+v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com
+v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com
