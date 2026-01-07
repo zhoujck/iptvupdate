@@ -1,106 +1,62 @@
-测速日志 2026-01-07 21:00:04
-[2026-01-07 21:00:08] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.30s
-[2026-01-07 21:00:08] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=91de5f409d1b0f6b7118cf2b1043989b&wsTime=1767801554 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-01-07 21:00:08] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.36s
-[2026-01-07 21:00:08] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.53s
-[2026-01-07 21:00:08] ✅ 测速成功: http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-   速度: 357.42KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-01-07 21:00:08] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-   速度: 6926.76KB/s | 数据量: 6.9KB | 总耗时: 0.07s
-[2026-01-07 21:00:08] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.67s
-[2026-01-07 21:00:08] ✅ 测速成功: https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
-   速度: 124.02KB/s | 数据量: 0.1KB | 总耗时: 0.72s
-[2026-01-07 21:00:08] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-   速度: 18851.72KB/s | 数据量: 464.2KB | 总耗时: 0.74s
-[2026-01-07 21:00:08] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-   速度: 578.12KB/s | 数据量: 0.6KB | 总耗时: 0.76s
-[2026-01-07 21:00:08] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.76s
-[2026-01-07 21:00:08] ✅ 测速成功: http://113.195.172.192:808/hls/113/index.m3u8
-   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-01-07 21:00:08] ✅ 测速成功: https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-   速度: 19340.70KB/s | 数据量: 464.2KB | 总耗时: 0.83s
-[2026-01-07 21:00:08] ✅ 测速成功: http://113.195.172.192:808/hls/114/index.m3u8
-   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-01-07 21:00:08] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-   速度: 416.99KB/s | 数据量: 0.4KB | 总耗时: 0.72s
-[2026-01-07 21:00:08] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-01-07 21:00:08] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-   速度: 2039.06KB/s | 数据量: 2.0KB | 总耗时: 0.42s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20260107200204d615c76a7c8442fda95075d32202922d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=310e884a648748295de93e74e155273d&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.19s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=2026010720020417b2c5303a46416a9683eb4dbd8125ce&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cbb231c6e0a22dbf42fcdcdc6305b2ec&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260107200204a547427c8bfb488ead141210ab0ad636&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=355e102611b385e7554eac5695583618&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.30s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=20260107200204946baf11a5414a8abeaf3c8fbbdfe4ea&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=70b0557c41554c8beaace3eb70b1e999&sv=10004&ct=android
-   速度: 5668.24KB/s | 数据量: 7.3KB | 总耗时: 0.38s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=20260107200204697246a486464b4fbd59512831aecf5e&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d0bf675120403d2237ca922cd1f512a0&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.15s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=202601071802044495f6abf6e04188895df4ec4e772816&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260107180204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260107180204&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7e831b0fa82f73ba1ecd71b22e6cdf30&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.45s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=202601072002042ee0253c1ea54a15a061a7df6e55d3df&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260107200204&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260107200204&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d32bfb582cb987abab95e83d95e4fa79&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.40s
-[2026-01-07 21:00:08] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202601071802038186049a5ad74feb9945f5e9f9729735&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260107180203&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260107180203&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6e5c4ca383e61f29ad96adb7911c2dfa&sv=10004&ct=android
-   速度: 5865.53KB/s | 数据量: 7.3KB | 总耗时: 0.46s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260107200205f91c095dbb754859aad4f02f92592b89&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=07be8851a69225ea7d96f55e4b7bfcf7&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=202601072002051cc6ea464922479d9d896b218fea201b&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd33686dbe3936f30d9c72b4698221b6&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202601072002056e8aefd35211456cb188f3becdda5822&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e461142b15af81ff3d6500fdfaacd159&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=202601072002056424f0daab7b4a2c9f69ac4ea54f0f3f&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b65f2da837f69754a02254c2bb3a0b70&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20260107200205d8fdd62fd252493aadfdc9e63a586cd1&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=69c749857bef72da57efade56d11f35d&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.07s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=20260107200205b7523b9b5b954988b2d8cd264b2fe8e4&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f95ca2ca3f12f9b5aafee722dcc3d4de&sv=10004&ct=android
-   速度: 5935.91KB/s | 数据量: 7.3KB | 总耗时: 0.08s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=20260107200205f54610a9b0aa4f3693f12a78a16d1b8f&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=94f23251c515704b23003d4e3e0550c5&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.08s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=202601072002051db59d1473ed40519aa7035daaa386a2&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b642e82cfedb3aa21c0ab25b806b4d6f&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.08s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?msisdn=20260107200206f14f186af2d0466aad30c550d70174fa&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260107200206&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=218.28.233.106&SecurityKey=20260107200206&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e3b2bf6ef9d9e940cb7ad70c6009f3c5&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.01s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=202601072002055ab5de489c3b48abbdd241e20ba1af94&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260107200205&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20260107200205&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a354f289ccaf1edf28d694ce32548b0d&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.01s
-[2026-01-07 21:00:09] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-   速度: 1973.63KB/s | 数据量: 2.0KB | 总耗时: 0.72s
-[2026-01-07 21:00:09] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.18s
-[2026-01-07 21:00:09] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.18s
-[2026-01-07 21:00:09] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.18s
-[2026-01-07 21:00:09] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.18s
-[2026-01-07 21:00:09] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+测速日志 2026-01-08 02:42:27
+[2026-01-08 02:42:30] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+   速度: 443.36KB/s | 数据量: 0.4KB | 总耗时: 0.19s
+[2026-01-08 02:42:30] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3e5d6055fbf2910d6f9ddb5a9217531f&wsTime=1767823248 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-01-08 02:42:30] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.20s
+[2026-01-08 02:42:30] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 723.63KB/s | 数据量: 0.7KB | 总耗时: 0.26s
+[2026-01-08 02:42:30] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
+[2026-01-08 02:42:30] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.48s
+[2026-01-08 02:42:30] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.51s
+[2026-01-08 02:42:31] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
+   速度: 6905.27KB/s | 数据量: 6.9KB | 总耗时: 0.13s
+[2026-01-08 02:42:31] ✅ 测速成功: https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+   速度: 30686.98KB/s | 数据量: 464.2KB | 总耗时: 0.62s
+[2026-01-08 02:42:31] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+   速度: 416.99KB/s | 数据量: 0.4KB | 总耗时: 0.45s
+[2026-01-08 02:42:31] ✅ 测速成功: http://113.195.172.192:808/hls/113/index.m3u8
+   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-01-08 02:42:31] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.02s
+[2026-01-08 02:42:31] ✅ 测速成功: http://113.195.172.192:808/hls/114/index.m3u8
+   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-08 02:42:31] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.04s
+[2026-01-08 02:42:31] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.09s
+[2026-01-08 02:42:31] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.23s
+[2026-01-08 02:42:31] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
    速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.01s
-[2026-01-07 21:00:09] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+[2026-01-08 02:42:31] ✅ 测速成功: https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
+   速度: 124.02KB/s | 数据量: 0.1KB | 总耗时: 0.92s
+[2026-01-08 02:42:31] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.06s
+[2026-01-08 02:42:31] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+   速度: 29900.84KB/s | 数据量: 464.2KB | 总耗时: 0.96s
+[2026-01-08 02:42:31] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
    速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.04s
-[2026-01-07 21:00:09] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.04s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=202601072002062b35413c3c314c9db87fde2824fcda6d&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20260107200206&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=218.28.233.106&SecurityKey=20260107200206&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4b70d0a867b3cc9cfa6017f0f72b7ba6&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.30s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=20260107200206eff8150243ef4a519d9e2858e7a52c64&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20260107200206&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=218.28.233.106&SecurityKey=20260107200206&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5061be6b4c2179ba0d0ec498252ffb4a&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.30s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/50/index.m3u8?msisdn=20260107200206db9640670fa0419eab9a4216f20f7119&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260107200206&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=218.28.233.106&SecurityKey=20260107200206&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7dfb5b3ed3d3a5b591e3240bdda9079d&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.30s
-[2026-01-07 21:00:09] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=20260107200206e6115e5357824799b657e28069b28bcf&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20260107200206&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=218.28.233.106&SecurityKey=20260107200206&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cfd6c16d1736e9c10be2cd25daa8b688&sv=10004&ct=android
-   速度: 7312.50KB/s | 数据量: 7.3KB | 总耗时: 0.30s
-[2026-01-07 21:00:09] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-   速度: 26456.05KB/s | 数据量: 26.5KB | 总耗时: 0.23s
-[2026-01-07 21:00:09] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-07 21:00:09] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 504.88KB/s | 数据量: 0.5KB | 总耗时: 1.35s
-[2026-01-07 21:00:09] ✅ 测速成功: http://222.128.55.152:9080/live/ts.m3u8
-   速度: 0.43KB/s | 数据量: 0.1KB | 总耗时: 0.60s
-[2026-01-07 21:00:10] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 0.85s
-[2026-01-07 21:00:10] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 1.12s
+[2026-01-08 02:42:31] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-01-08 02:42:31] ✅ 测速成功: http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+   速度: 357.42KB/s | 数据量: 0.4KB | 总耗时: 1.03s
+[2026-01-08 02:42:31] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.54s
+[2026-01-08 02:42:31] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+   速度: 24472.66KB/s | 数据量: 24.5KB | 总耗时: 0.09s
+[2026-01-08 02:42:31] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+   速度: 2039.06KB/s | 数据量: 2.0KB | 总耗时: 0.52s
+[2026-01-08 02:42:31] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-01-08 02:42:31] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.35s
+[2026-01-08 02:42:32] ✅ 测速成功: http://222.128.55.152:9080/live/ts.m3u8
+   速度: 0.33KB/s | 数据量: 0.1KB | 总耗时: 0.79s
+[2026-01-08 02:42:32] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 1.42s
+[2026-01-08 02:42:34] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 3.06s
