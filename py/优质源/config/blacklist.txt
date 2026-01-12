@@ -1346,3 +1346,4 @@ smt.veryfast.filegear-sg.me
 tvlist.top
 14.21.90.68
 38.75.136.137
+live1.jzjsnm.cn
