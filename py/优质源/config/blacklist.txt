@@ -1350,3 +1350,4 @@ live1.jzjsnm.cn
 58.245.255.38
 live.ottiptv.cc
 keke.kandiantv.cn
+pull-hls-f1.douyincdn.com
