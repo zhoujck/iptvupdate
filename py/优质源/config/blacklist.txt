@@ -1354,3 +1354,4 @@ pull-hls-f1.douyincdn.com
 23.237.228.134
 43.251.226.89
 120.238.94.82
+pull-hs-f5.flive.douyincdn.com
