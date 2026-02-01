@@ -1,6 +1,3 @@
 上海频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=5b02a660ee7b507eff43f0fb9bccfb4488e2e52d8e9d0959bea8a92f27a5aa45781e4f158626f5a2e7de23e74111ac7642799d037382311742d1574a7da715f04770d6b37654851a06ee9a1be777c37701&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=192f3b7b23fbe568e3ef9f7161c5718010e62c13b28d06a4a427ffe520f5d31e339dd0f21be44ade7e9cbc0269d856ad5edbfd7fbc423f24f48d296f50514ea4e6e805b2821823095c6edcf6ec9449fe4a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=556b919518f348930b96a6e86b2b1160407173d2b214c9100e30da18eb0a91020d2b5510acedaa2fb80d984e540c3ba4a9d67d47e28a8a4cde331b9bff661263c448fdfabf60c810d9f504f9f82a3a7a25&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
