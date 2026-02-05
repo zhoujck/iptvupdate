@@ -1,6 +1,5 @@
 上海频道,#genre#
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=9797692d3347e1523805face7e6065af6cc653d82f2a9fd31401c9f3c699571adfd55b13f32e0188f0577e632c0abb7cb5cd15fbd9aa7c19c0055329091d0e6632cca871afc133ca660ecaccc1b1ca014b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
