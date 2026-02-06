@@ -1,2 +1,9 @@
 港台频道,#genre#
+TVB星河,http://j.s.bkpcp.top/js/xht1
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+明珠台,http://j.s.bkpcp.top/jj/zzt
+天映经典,http://j.s.bkpcp.top/js/tyjd3
+美亚电影,http://j.s.bkpcp.top/js/mydy
+爱奇艺,http://j.s.bkpcp.top/js/aqy
+天映经典,http://j.s.bkpcp.top/jj/tyjd
+天映经典,http://j.s.bkpcp.top/js/tyjd5
