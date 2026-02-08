@@ -1,7 +1,6 @@
 上海频道,#genre#
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=7ebbb42bd048a145774980735a88433a77fd3e6434f61734c2f93be4888c13945455cbb3b194b23443876a1c3ae69b3ee33d9aa503c7a6ef7a932694aebd8173b7c425e06c5fbd5389e930a346a3bc84f9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=ffbe6c8fabb0b940f870b7da8f86eafd7641dc93cbf23575df79d8df74a34cbd968c1f5a2b88ff9a837c50568215c793321c0e70f8d65a35a947c0830f1ac27c6244ab443e5d95a05b1686e73805f0a86e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=ef8dab7831e5b5e81b8961729aa572e610dc96aab865110b6b0a45cfae4eb60725af4654c859d4c98b7b7bb43e56e59b24260d4351640fd495eb101ac15658b0b188a2733ca317d4061fcc8b2bb4e75e77&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
