@@ -2,7 +2,7 @@
 CCTV1,http://113.44.65.227:1234/608807420
 CCTV2,http://113.44.65.227:1234/631780532
 CCTV3,http://113.44.65.227:1234/624878271#http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-CCTV4,http://113.44.65.227:1234/631780421#http://113.44.65.227:1234/608807416#http://113.44.65.227:1234/608807419#https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV4,http://113.44.65.227:1234/608807416#http://113.44.65.227:1234/631780421#http://113.44.65.227:1234/608807419#https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV5,http://113.44.65.227:1234/641886773#http://113.44.65.227:1234/641886683
 CCTV5+,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20260210080221f8f8b0871ba943f897816ca52f083c6e&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260210080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260210080221&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=45288a801990efe4f59d3d38b600aa42
 CCTV6,http://27.41.245.32:801/hls/6/index.m3u8
@@ -17,7 +17,7 @@ CCTV14,http://113.44.65.227:1234/624878440#http://69.30.246.194/live/cctv14.m3u8
 CCTV15,http://113.44.65.227:1234/673168223#http://69.30.246.194/live/cctv15.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://113.44.65.227:1234/673168256
-CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932#http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85#http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV老故事,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202602100802232269324ce035423488f4a154a25cfff6&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260210080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=218.28.233.106&SecurityKey=20260210080223&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e91a4ecca1854abc9a3ca36afd9547c9
 CCTV发现之旅,http://113.44.65.227:1234/624878970#http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=202602100802231d694729398c427b874092f46c05d0ae&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260210080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=218.28.233.106&SecurityKey=20260210080223&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9056d1c20bf7610ce5a31f65e71feee
 中国天气,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=2026021008023261b167ba0a6141dd88f5a4ab8a639f10&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260210080232&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20260210080232&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f739106c8d7af68235a5c6bd0e8301db
@@ -79,13 +79,7 @@ CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/2
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 ☘️港·澳·台,#genre#
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8#http://27.41.245.32:801/hls/205/index.m3u8
-凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=202602100802310bc4de0c903e4791bb42a3787862e775&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260210080231&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260210080231&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c890b72db90e5fd131e7203d81eabe31
-Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
-Now星影,http://rihou.cc:555/tv/[Bx]Now星影
-TVB明珠台,http://rihou.cc:555/tv/[Mt]无线明珠
-TVB无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
-TVB星河,http://rihou.cc:555/tv/[SX]无线星河
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
