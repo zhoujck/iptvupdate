@@ -1,8 +1,7 @@
 上海频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=71c76f9d0c43ea4f1e90c86ed50ad4b52fc181d0cade22261adbf5a1624360bcaa4a91a4bc0fc3b74d5d97e3001fe7c0fa06ea66b637e9ea3b1acf1c2b12cfe9454bff25c12d4b13baea6f5e1800354a97&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=dd90ba612458536abde5e85c95eef9a4e9c5d9c43ea691ce9fdd424ec432da7c15c91caed7b5b53f5d8d97a76b754999c85040086e70d1f9ccbc6ca64f7325876b330d5aa477549626bacb93d81d9ad95c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=2600941f65fe56561bf9b118508cc95f50ece93441823b30476b3c8d37dbf2967815d76157d6b0f751f4ff08b9a705734647bbadf3bf9c95347e79d6d116c9c4a01c207d5591057f2961c2f989ee581fb9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
