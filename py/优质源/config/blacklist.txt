@@ -1375,3 +1375,4 @@ mgsp-tx2.live.miguvideo.com
 video.bread-tv.com
 pull-hls-f11.douyincdn.com
 mgsp-tx.vod.miguvideo.com
+148.113.160.49
