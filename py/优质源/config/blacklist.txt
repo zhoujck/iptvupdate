@@ -1378,3 +1378,4 @@ mgsp-tx.vod.miguvideo.com
 148.113.160.49
 101.200.122.188
 bp-resource-dfl.bestv.cn
+mgsp-hs2.live.miguvideo.com
