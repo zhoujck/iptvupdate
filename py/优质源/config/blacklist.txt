@@ -1380,3 +1380,4 @@ mgsp-tx.vod.miguvideo.com
 bp-resource-dfl.bestv.cn
 mgsp-hs2.live.miguvideo.com
 cctv.sohu.blog
+iptv.gstory.cn
