@@ -1,5 +1,4 @@
 数字频道,#genre#
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-劲爆体育,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0TjnHint92FaGOdQKWbGgIqMxjYHJKfKmz5-sDiesmTbAxE-GePCEhWtmcc34I1qpRF-7LjmYkvzb6Z031xjMJ9oqMvNwqQk-mVldD0G6Jso-oleU3z0vdP5jZk5oHwysitVUXSTbua0xNvBg3gp7kGtcMQsyg_Kg-hfWgLQr5eOhIy4zHbYYag-td6NcatUaPE49DgqVaZv5CGKGGVfVg.m3u8?u=1757123819
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
