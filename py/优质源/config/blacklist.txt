@@ -1384,3 +1384,4 @@ iptv.gstory.cn
 antvlive.ab5c6921.cdnviet.com
 36.32.174.67
 39.107.120.164
+mgsp-zy.vod.miguvideo.com
