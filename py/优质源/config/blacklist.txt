@@ -1387,3 +1387,4 @@ antvlive.ab5c6921.cdnviet.com
 mgsp-zy.vod.miguvideo.com
 27.41.245.32
 mgsp-ali2.live.miguvideo.com
+flvzypull2mgsplive.miguvideo.com
