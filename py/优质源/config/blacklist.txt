@@ -1388,3 +1388,4 @@ mgsp-zy.vod.miguvideo.com
 27.41.245.32
 mgsp-ali2.live.miguvideo.com
 flvzypull2mgsplive.miguvideo.com
+mgsp-yx2.live.miguvideo.com
