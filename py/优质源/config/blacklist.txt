@@ -1390,3 +1390,4 @@ mgsp-ali2.live.miguvideo.com
 flvzypull2mgsplive.miguvideo.com
 mgsp-yx2.live.miguvideo.com
 mgsp-zy2.live.miguvideo.com
+flvhspull2mgsplive.miguvideo.com
