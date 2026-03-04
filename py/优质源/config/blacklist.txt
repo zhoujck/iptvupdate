@@ -1394,3 +1394,4 @@ flvhspull2mgsplive.miguvideo.com
 flvyxpull2mgsplive.miguvideo.com
 156.238.248.80
 mgws.vod.miguvideo.com
+gxlive.snrtv.com
