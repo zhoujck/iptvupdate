@@ -1397,3 +1397,4 @@ mgws.vod.miguvideo.com
 gxlive.snrtv.com
 fash2043.cloudycdn.services
 222.128.55.152
+104.250.145.76
